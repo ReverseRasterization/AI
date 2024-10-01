@@ -1,0 +1,39 @@
+# Gets data from polygon for Gamestop
+
+def grab_data(): 
+    data = {
+        "Date": [],
+        "Open": [],
+        "High": [],
+        "Low": [],
+        "Close": [],
+        "Volume": []
+    }
+    
+    api_key = '44YWaVMaua5SybbN7NME5I08xgYyvbjy'
+    base_url = 'https://api.polygon.io/v2/aggs/ticker'
+    ticker = 'GME'
+    multiplier = 1
+    timespan = 'day'
+    from_date = '2024-05-14'
+    to_date = '2024-09-26'
+
+    url = f'{base_url}/{ticker}/range/{multiplier}/{timespan}/{from_date}/{to_date}?apiKey={api_key}'
+
+    response = requests.get(url)
+    response_data = response.json()
+    
+    for result in response_data['results']:
+        date = pd.to_datetime(result['t'], unit='ms')
+        data['Date'].append(date)
+        data['Open'].append(result['o'])
+        data['High'].append(result['h'])
+        data['Low'].append(result['l'])
+        data['Close'].append(result['c'])
+        data['Volume'].append(result['v'])
+    return pd.DataFrame(data)
+
+polygon_df = grab_data()
+df = df.append(polygon_df, ignore_index=True)
+
+df.to_json('output_file.json', orient='records', lines=True)
