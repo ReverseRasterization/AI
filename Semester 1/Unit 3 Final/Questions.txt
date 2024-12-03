@@ -1,0 +1,18 @@
+What is the standard deviation of the count of book ratings for a randomly selected genre from OpenLibrary?
+    Create a Probability Distribution of ratings for books in the genre.
+    Calculate Expected Value to find the mean rating.
+    Determine the Standard Deviation of Expected Values to understand variability in ratings.
+
+    - https://openlibrary.org/subjects
+
+
+If you select 5 books from OpenLibrary, what is the probability that exactly 3 of them are from the "Non-Fiction" category?
+    Use a Probability Distribution (binomial distribution) to calculate the likelihood of this scenario.
+    Apply the Theoretical Probability with the Multiplication Rule to derive probabilities.
+    Use Expected Value to estimate the typical number of "Non-Fiction" books in a random sample.
+
+    - https://openlibrary.org/random
+    - Subjects: Fiction, Children's fiction, Juvenile fiction, Fantasy fiction, Magic, Fiction, fantasy, general, Adventure and adventurers, 
+    fiction, Magic, fiction, fantasy, Adventure and adventurers, Good and evil, Romance, Comic books, strips, 
+    Science fiction, Fairies, Dragons, Children's stories, Juvenile Fiction, Cartoons and comics, New York Times bestseller
+

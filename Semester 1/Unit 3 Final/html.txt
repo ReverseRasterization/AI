@@ -1,0 +1,20 @@
+<span class="clamp" data-before="▾ " style="display: unset;">
+  <h3>Subjects</h3>
+    <a href="/subjects/fantasy_fiction" data-ol-link-track="BookOverview|SubjectClick">Fantasy fiction</a>,
+    <a href="/subjects/short_stories" data-ol-link-track="BookOverview|SubjectClick">Short stories</a>,
+    <a href="/subjects/middle_earth_(imaginary_place)" data-ol-link-track="BookOverview|SubjectClick">Middle Earth (Imaginary place)</a>,
+    <a href="/subjects/elves" data-ol-link-track="BookOverview|SubjectClick">Elves</a>,
+    <a href="/subjects/fiction" data-ol-link-track="BookOverview|SubjectClick">Fiction</a>,
+    <a href="/subjects/british_and_irish_fiction_(fictional_works_by_one_author)" data-ol-link-track="BookOverview|SubjectClick">British and irish fiction (fictional works by one author)</a>,
+    <a href="/subjects/fiction_fantasy_epic" data-ol-link-track="BookOverview|SubjectClick">Fiction, fantasy, epic</a>,
+    <a href="/subjects/middle_earth_(imaginary_place)_fiction" data-ol-link-track="BookOverview|SubjectClick">Middle earth (imaginary place), fiction</a>,
+    <a href="/subjects/english_fantasy_fiction" data-ol-link-track="BookOverview|SubjectClick">English Fantasy fiction</a>,
+    <a href="/subjects/english_literature" data-ol-link-track="BookOverview|SubjectClick">English literature</a>,
+    <a href="/subjects/engelse_fiksie" data-ol-link-track="BookOverview|SubjectClick">Engelse fiksie</a>,
+    <a href="/subjects/fantasy" data-ol-link-track="BookOverview|SubjectClick">fantasy</a>,
+    <a href="/subjects/bilbo_baggins_(fictitious_character)" data-ol-link-track="BookOverview|SubjectClick">Bilbo Baggins (Fictitious character)</a>,
+    <a href="/subjects/silmaril" data-ol-link-track="BookOverview|SubjectClick">silmaril</a>,
+    <a href="/subjects/fiction_fairy_tales_folk_tales_legends_&amp;_mythology" data-ol-link-track="BookOverview|SubjectClick">Fiction, fairy tales, folk tales, legends &amp; mythology</a>,
+    <a href="/subjects/fiction_fantasy_dragons_&amp;_mythical_creatures" data-ol-link-track="BookOverview|SubjectClick">Fiction, fantasy, dragons &amp; mythical creatures</a>,
+    <a href="/subjects/fiction_fantasy_action_&amp;_adventure" data-ol-link-track="BookOverview|SubjectClick">Fiction, fantasy, action &amp; adventure</a>
+  </span>
