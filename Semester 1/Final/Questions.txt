@@ -1,0 +1,11 @@
+What is the probability of a randomly selected Wikipedia page emitting more than the mean CO₂ value?
+
+What is the probability that a page emits less than 50% of websites?
+
+Given that a page has no images, what is the probability that its emissions fall below the 25th percentile?
+
+If a page emits more than the mean of CO₂, what is the probability that it has more images than the mean of images on an article?
+    - Subtopic: Do the amount of images in an article correlate with the amount of emissions
+    - Topics: Bayes Theorem, Mean, Scatter Plot, Equation of Best-Fit Line/Linear Regression Model, Pearson Correlation Coefficient
+
+                 
