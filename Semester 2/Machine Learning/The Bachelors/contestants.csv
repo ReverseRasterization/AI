@@ -1,1567 +1,1247 @@
-Name,Birth Year,Hometown,Occupation,Season,Elimination
+Name,Hometown,Occupation,Season,Elimination,Age,AgeDiff
 "Amanda Marsh
-",1979,"Chanute, Kansas
+","Chanute, Kansas
 ","Event planner
-",1,"Winner
-"
+",1,7,23.0,9.0
 "Trista Rehn
-",1972,"Miami, Florida
+","Miami, Florida
 ","Miami heat dancer
-",1,"Runner-Up
-"
+",1,6,30.0,2.0
 "Shannon Oliver
-",24,"Dallas, Texas
+","Dallas, Texas
 ","Financial management consultant
-",1,"Week 5
-"
+",1,5,24.0,8.0
 "Kim
-",24,"Tempe, Arizona
+","Tempe, Arizona
 ","Nanny
-",1,"Week 4
-"
+",1,4,24.0,8.0
 "Cathy Grimes
-",1979,"Terra Haute, Indiana
+","Terra Haute, Indiana
 ","Graduate student
-",1,"Week 3
-"
+",1,3,23.0,9.0
 "Christina Stencil
-",28,"Bonita, California
+","Bonita, California
 ","Attorney
-",1,"Week 3
-"
+",1,3,28.0,4.0
 "LaNease Adams
-",1978,"Los Angeles, California
+","Los Angeles, California
 ","Actress
-",1,"Week 3
-"
+",1,3,24.0,8.0
 "Rhonda Rittenhouse
-",28,"Woodward, Oklahoma
+","Woodward, Oklahoma
 ","Commercial real estate agent
-",1,"Week 3
-"
+",1,3,28.0,4.0
 "Alexa
-",27,"Beverly Hills, California
+","Beverly Hills, California
 ","Special educations teacher
-",1,"Week 2
-"
+",1,2,27.0,5.0
 "Amy Anzel
-",28,"New York, New York
+","New York, New York
 ","Production coordinator
-",1,"Week 2
-"
+",1,2,28.0,4.0
 "Angela
-",25,"Avondale, Arizona
+","Avondale, Arizona
 ","Hooters waitress
-",1,"Week 2
-"
+",1,2,25.0,7.0
 "Angelique Madrid
-",27,"Burbank, California
+","Burbank, California
 ","Actress
-",1,"Week 2
-"
+",1,2,27.0,5.0
 "Katie
-",23,"Malden, Massachusetts
+","Malden, Massachusetts
 ","Power tool sales representative
-",1,"Week 2
-"
+",1,2,23.0,9.0
 "Melissa
-",25,"Tempe, Arizona
+","Tempe, Arizona
 ","Photographer
-",1,"Week 2
-"
+",1,2,25.0,7.0
 "Tina Chen
-",27,"Plano, Texas
+","Plano, Texas
 ","Graduate student
-",1,"Week 2
-"
+",1,2,27.0,5.0
 "Amber
-",29,"Los Angeles, California
+","Los Angeles, California
 ","Business development director
-",1,"Week 1
-"
+",1,1,29.0,3.0
 "Daniela
-",30,"Seattle, Washington
+","Seattle, Washington
 ","Neuropsychologist
-",1,"Week 1
-"
+",1,1,30.0,2.0
 "Denise
-",30,"Honolulu, Hawaii
+","Honolulu, Hawaii
 ","Doctor
-",1,"Week 1
-"
+",1,1,30.0,2.0
 "Jackie
-",22,"Pittsburgh, Pennsylvania
+","Pittsburgh, Pennsylvania
 ","Bar manager
-",1,"Week 1
-"
+",1,1,22.0,10.0
 "Jill
-",31,"Chicago, Illinois
+","Chicago, Illinois
 ","Retail manager
-",1,"Week 1
-"
+",1,1,31.0,1.0
 "Kristina Jenkins
-",27,"Los Angeles, California
+","Los Angeles, California
 ","Advertising executive
-",1,"Week 1
-"
+",1,1,27.0,5.0
 "Lisa Gold
-",29,"Dallas, Texas
+","Dallas, Texas
 ","Attorney
-",1,"Week 1
-"
+",1,1,29.0,3.0
 "Paula
-",24,"Swansea, Massachusetts
+","Swansea, Massachusetts
 ","Insurance representative
-",1,"Week 1
-"
+",1,1,24.0,8.0
 "Rachel
-",29,"Eastchester, New York
+","Eastchester, New York
 ","6th grade teacher
-",1,"Week 1
-"
+",1,1,29.0,3.0
 "Wendi Plotnik
-",26,"Dallas, Texas
+","Dallas, Texas
 ","Technology specialist
-",1,"Week 1
-"
-Tessa Horst,26,"San Francisco, California",Social worker,10,Winner
-Bevin Powers,1978,"Palo Alto, California",Assistant,10,Runner-up
-Danielle Imwalle,25,"Bethel, Connecticut",Graphic designer,10,Eliminated in week 7
-Amber Alchalabi,23,"Sugar Land, Texas",Teacher,10,Eliminated in week 6
-Stephanie Wilhite,23,"Overland Park, Kansas",Project manager,10,Eliminated in week 5
-Tina Wu,26,"Lenox Hill, New York",Medical student,10,Eliminated in week 5
-Kate Brockhouse,24,"Ravenel, South Carolina",Boutique owner,10,Eliminated in week 4
-Nicole Clary,26,"Charleston, South Carolina",Sales Manager,10,Eliminated in week 4
-Stephanie Tipper,27,"Folly Beach, South Carolina",Organ donation coordinator,10,Eliminated in week 4
-Amanda Hackney,26,"Dallas, Texas",Financial analysts,10,Eliminated in week 3
-Erin Parker,24,"Logansport, Louisiana",Financial analyst,10,Eliminated in week 3
-Peyton Wright,1983,"La Vergne, Tennessee",Sorority recruiter,10,Eliminated in week 3
-Alexis Young,26,"Southlake, Texas",Attorney,10,Eliminated in week 2
-Susan Anderson,23,"The Woodlands, Texas",Boutique manager,10,Eliminated in week 2
-Tiffany Warren,28,"Boston, Massachusetts",Medical equipment sales representative,10,Eliminated in week 2
-Blakeney Rowe,29,"Birmingham, Alabama",Radio sales,10,Eliminated in week 1
-Candace DeCost,23,"Hilton Head Island, South Carolina",Waitress,10,Eliminated in week 1
-Catherine Warren,23,"Lake Forest, Illinois",Former Miss Illinois,10,Eliminated in week 1
-Danielle Vallis,26,"Bronx, New York",Attorney,10,Eliminated in week 1
-Jackie Topelli,23,"Minneapolis, Minnesota",Executive coordinator,10,Eliminated in week 1
-Jeanette Alvarez,27,"Tampa, Florida",Health care manager,10,Eliminated in week 1
-Jessica Devallo,32,"New York, New York",Hedge fund analyst,10,Eliminated in week 1
-Linda Malek,33,"Cuyahoga Falls, Ohio",Attorney,10,Eliminated in week 1
-Lindsay Smith,22,"Lawrence, Kansas",Student,10,Eliminated in week 1
-Tiffany Forester,27,"St. Louis Park, Minnesota",Real estate sales/development,10,Eliminated in week 1
-DeAnna Pappas,1981,"Newnan, Georgia",Realtor,11,Eliminated in week 8
-Jenni Croft,1979,"Wichita, Kansas",Phoenix Suns Cheerleader,11,Eliminated in week 8
-Bettina Bell,27,"Washington, D.C.",Realtor,11,Eliminated in week 7
-Sheena Stewart,1984,"Walnut Creek, California",Internet marketing executive,11,Eliminated in week 6
-Hillary Reisinger,27,"Philadelphia, Pennsylvania",Registered nurse,11,Eliminated in week 5
-Kristy Katzmann,1977,"Gurnee, Illinois",Acupuncturist,11,Eliminated in week 5
-"Estefania ""Stephy"" Kootz",26,"Atlanta, Georgia",Executive assistant,11,Eliminated in week 4
-Jade Beazley,24,"Nashville, Tennessee",Boutique sales worker,11,Eliminated in week 4
-McCarten Delaney,26,"Lemon Grove, California",Account manager,11,Eliminated in week 4
-Lindsey Hawkins,25,"Livonia, Michigan",Model,11,Eliminated in week 3
-Sarah Newlon,1984,"O'Fallon, Illinois",Bar manager,11,Eliminated in week 3
-Solisa Shoop,1981,"Georgetown, Texas",Esthetician,11,Eliminated in week 3
-Michele Leavy,30,"South Brunswick, New Jersey",Realtor,11,Eliminated in week 2
-Mallory Simons,24,"Honolulu, Hawaii",Nanny,11,Eliminated in week 2
-Erin Gardner,25,"Tampa, Florida",Publishing sales executive,11,Eliminated in week 2
-Jessica Kiss,27,"Lady Lake, Florida",News anchor,11,Eliminated in week 1
-Juli Gilliam,24,"Chicago, Illinois",Law student,11,Eliminated in week 1
-Kim Orville,31,"Woodbridge, Connecticut",Realtor,11,Eliminated in week 1
-Lori Langley,33,"Annapolis, Maryland",Teacher,11,Eliminated in week 1
-Melissa Buschel,28,"Westchester, New York",Event planner,11,Eliminated in week 1
-Morgan Becker,24,"Tempe, Arizona",Graduate student,11,Eliminated in week 1
-Natalie Velasco,25,"Duncanville, Texas",Law student,11,Eliminated in week 1
-Regina Doringa,31,"San Diego, California",Account representative,11,Eliminated in week 1
-Tauni Nessler,31,"St. Louis Park, Minnesota",Emergency room nurse,11,Eliminated in week 1
-Susan Coolidge,35,"St. Charles, Illinois",Project analyst,11,Eliminated in week 1
-Shayne Lamas,1985,"Malibu, California",Actress,12,Winner
-Chelsea Wanstrath,25,"Durango, Colorado",Pharmaceutical sales representative,12,Runner-up
-Amanda Rantuccio,1980,"Niceville, Florida",Account Executive,12,Eliminated in week 7
-Noelle Drake,1981,"Loveland, Colorado",Photographer,12,Eliminated in week 6
-Marshana Ritchie,1981,"Brooklyn, New York",Fashion designer,12,Eliminated in week 5
-Robin Canfield,1985,"Holland, Michigan",Advertising coordinator,12,Eliminated in week 5
-Ashlee Williss,1985,"Jacksonville Beach, Florida",Singer-songwriter,12,Eliminated in week 4
-Kelly Duncan,25,"Hollywood, California",Medical sales representative,12,Eliminated in week 4
-Holly Durst,1983,"Suffield, Ohio",Children's book author,12,Eliminated in week 4
-Amy Bean,1985,"Stockton, California",Nanny,12,Eliminated in week 3
-Erin Storm,1975,33,"Venice, California",12,Hot-dog vendor
-Kristine Heffelfinger,1975,"Dillsburg, Pennsylvania",Personal trainer,12,Eliminated in week 3
-Michelle Procopio,1979,"Syracuse, New York",Administrative assistant,12,Eliminated in week 2
-"Caroline ""Carri"" Perrier",25,"Oklahoma City, Oklahoma",Church marketing representative,12,Eliminated in week 2
-Erin Harper,1983,"Seattle, Washington",Event planner,12,Eliminated in week 2
-Alyssa Gill,24,"Boise, Idaho",Biology student,12,Eliminated in week 1
-Amanda Petterman,26,"LaFollette, Tennessee",Law student,12,Eliminated in week 1
-Denise Hawthorne,30,"Washington, D.C",Attorney,12,Eliminated in week 1
-Devon Antin,24,"Austin, Texas",Makeup artist,12,Eliminated in week 1
-Lesley Geyer,1984,"Tampa, Florida",Youth minister,12,Eliminated in week 1
-Michele Romero,33,"Laguna Niguel, California",Interior designer,12,Eliminated in week 1
-Rebecca LeBlanc,30,"Alamo, California",Attorney,12,Eliminated in week 1
-Stacey Elza,1981,"Chicago, Illinois",Graduate student,12,Eliminated in week 1
-Tamara Sketz,23,"Beverly Hills, California",Cocktail waitress,12,Eliminated in week 1
-Tiffany Thornburg,33,"San Francisco, California",Real estate marketing representative,12,Eliminated in week 1
-Melissa Rycroft,1983,"Dallas, Texas",Sales representative,13,Winner
-Molly Malaney,1984,"Brookfield, Wisconsin",Department store buyer,13,Runner-up
-Jillian Harris,1979,"Peace River, Alberta",Interior designer,13,Eliminated in week 7
-Naomi Crespo,1984,"Carlsbad, California",Flight attendant,13,Eliminated in week 6
-Stephanie Hogan,1974,"Huntsville, Alabama",Medical marketing representative,13,Eliminated in week 5
-Lauren Wanger,1981,"Marlboro, New Jersey",Teacher,13,Eliminated in week 4
-Megan Parris,1983,"Sewickley, Pennsylvania",Lacrosse coach,13,Eliminated in week 4
-Shannon Bair,1979,"Marshall, Missouri",Dental hygienist,13,Eliminated in week 4
-Nikki Kaapke,1979,"Blue Island, Illinois",Administrative assistant,13,Eliminated in week 4
-Erica DeSimone,25,"Monroe, Connecticut",Account executive,13,Eliminated in week 3
-Kari Fajen,1981,"Lee's Summit, Missouri",Account executive,13,Eliminated in week 3
-Natalie Getz,1981,"Morton, Illinois",Human resources recruiter,13,Eliminated in week 3
-Raquel Medeiros,1981,"Recife, Pernambuco, Brazil",Medical student,13,Eliminated in week 2
-Sharon Staebell,1976,"Batavia, New York",Teacher,13,Eliminated in week 2
-Lisa Gonzalez,28,"Boise, Idaho",Public relations associate,13,Quit in week 2
-Ann Lueders,24,"Phoenix, Arizona",Flight attendant,13,Eliminated in week 1
-Dominique Carta,1982,"Mt. Carmel, Pennsylvania",Medical sales representative,13,Eliminated in week 1
-Emily,23,"Seattle, Washington",Casino marketing representative,13,Eliminated in week 1
-Jackie Hickey,26,"Springfield, Massachusetts",Wedding coordinator,13,Eliminated in week 1
-Julie Dermotta,1982,"Columbus, Ohio",Teacher,13,Eliminated in week 1
-Nicole Mah,25,"Calgary, Alberta",Menswear buyer,13,Eliminated in week 1
-Renee Simlak,1972,"Southfield, Michigan",Jewelry designer,13,Eliminated in week 1
-Shelby,23,"Stockton, California",Account executive,13,Eliminated in week 1
-Stacia Mann,1984,"Orem, Utah",Charity accountant,13,Eliminated in week 1
-Treasure Morgan,28,"Salt Lake City, Utah",Nurse practitioner,13,Eliminated in week 1
-Vienna Girardi,1986,"Geneva, Florida",Marketing representative,14,Winner
-Tenley Molzahn,1984,"Newberg, Oregon",College admissions,14,Runner-up
-Gia Allemand,1983,26,"New York, New York",14,Swimsuit model
-Ali Fedotowsky,1984,"Williamstown, Massachusetts",Advertising account manager,14,Quit in week 6
-Corrie Adamson,1986,"Kissimmee, Florida",Wardrobe consultant,14,Eliminated in week 5
-Ashleigh Hunt,1984,"North Potomac, Maryland",Account manager,14,Eliminated in week 4
-Jessie Sulidis,1984,"Oakville, Ontario",Cosmetic sales manager,14,Eliminated in week 4
-Kathryn Sherlock,1984,"Lexington, Kentucky",Corporate flight attendant,14,Eliminated in week 4
-Ella Nolan,1979,"La Follette, Tennessee",Hair stylist,14,Eliminated in week 4
-Elizabeth Kitt,1980,"Imperial, Nebraska",Nanny,14,Eliminated in week 3
-Valishia Savage,1977,"San Bernardino, California",Homemaker,14,Eliminated in week 3
-Michelle Kujawa,1983,"Anaheim, California",Office manager,14,Eliminated in week 3
-Ashley Elmore,29,"Pittsburgh, Pennsylvania",Teacher,14,Eliminated in week 2
-Christina McCasland,1984,"San Diego, California",Restaurant manager,14,Eliminated in week 2
-Rozlyn Papa,1981,"Richmond, Virginia",Model/Makeup artist,14,Disqualified in week 2
-"Alexa ""Lex"" McAllister",1984,25,"Galloway, Ohio",14,Entrepreneur
-Caitlyn McCabe,1985,"Winfield, Illinois",Spokesmodel,14,Eliminated in week 1
-Channy Choch,29,"Santa Rosa, California",Mortgage loan officer,14,Eliminated in week 1
-Elizabeth Kreft,1979,"Union, Kentucky","Captain, Air National Guard",14,Eliminated in week 1
-Emily Harkins,1986,"West Chester, Ohio",Fitness model,14,Eliminated in week 1
-Kimberly Sullivan,1986,"Norman, Oklahoma",NBA dancer,14,Eliminated in week 1
-Kirsten Pittman,1984,"Aurora, Colorado",Waitress,14,Eliminated in week 1
-Sheila Lidner,25,"Scottsdale, Arizona",Commercial pilot,14,Eliminated in week 1
-Stephanie Mueller,24,"Morris, Illinois",Dance teacher,14,Eliminated in week 1
-Tiana Kruzel,31,"Calgary, Alberta",Medical technician,14,Eliminated in week 1
-Emily Maynard,1986,"Morgantown, West Virginia",Children's Hospital Event Planner,15,Winner
-Chantal O'Brien,1982,"Mercer Island, Washington",Executive Assistant,15,Runner-up
-Ashley Hebert,1984,"Madawaska, Maine",Dental Student,15,Eliminated in week 9
-Shawntel Newton,1984,"Chico, California",Funeral Director,15,Eliminated in week 8
-Michelle Money,1980,"Salt Lake City, Utah",Hair stylist,15,Eliminated in week 7
-Britt Billmaier,1985,"Woodinville, Washington",Food writer,15,Eliminated in week 7
-Jackie Gordon,1984,"Newport, Rhode Island",Artist,15,Eliminated in week 6
-Alli Travis,1986,"Columbus, Ohio",Apparel merchant,15,Eliminated in week 6
-Lisa Morrisey,1986,"Ottawa, Kansas",Marketing Coordinator,15,Eliminated in week 5
-Marissa May,1984,"Mesa, Arizona",Sports Publicist,15,Eliminated in week 5
-Ashley Spivey,1984,"Ellerbe, North Carolina",Nanny,15,Eliminated in week 5
-Lindsay Hill,1985,"Plano, Texas",First grade teacher,15,Eliminated in week 4
-Meghan Merritt,1980,"Princeton, New Jersey",Fashion Marketer,15,Eliminated in week 4
-Stacey Quirpel,26,"Quincy, Massachusetts",Bartender,15,Eliminated in week 4
-Kimberly Coon,1982,"Orlando, Florida",Marketing Coordinator,15,Eliminated in week 3
-Sarah Powell,27,"Denver, Colorado",Real Estate Broker,15,Eliminated in week 3
-Madison Garton,1985,"Vail, Colorado",Model,15,Quit in week 3
-Keltie Busch,1982,"Sherwood Park, Alberta",Radio City Rockette,15,Eliminated in week 2
-Melissa Schreiber,1978,"Westport, Connecticut",Waitress,15,Eliminated in week 2
-Raichel Goodyear,1981,"Fullerton, California",Manscaper,15,Eliminated in week 2
-Britnee Marks,1985,"Holland, Pennsylvania",Paralegal,15,Eliminated in week 1
-Cristy Caserta,1980,30,"Davie, Florida",15,Attorney
-"Jessica ""J"" Adams",26,"Seattle, Washington",Operations Manager,15,Eliminated in week 1
-Jill Ruskowski,1982,"Frisco, Texas",Sales director,15,Eliminated in week 1
-Lacey Garbelman,1983,"Tampa, Florida",Insurance agent,15,Eliminated in week 1
-Lauren Moore,1984,"Culpeper, Virginia",High School Teacher,15,Eliminated in week 1
-Lisa Pastrich,1983,"Dix Hills, New York",Sales Consultant,15,Eliminated in week 1
-Rebecca,30,"Mission Viejo, California",Esthetician,15,Eliminated in week 1
-Renee Halpin,1982,"Palos Hills, Illinois",Nanny,15,Eliminated in week 1
-Sarah Ledtke,1985,"Saginaw, Michigan",Musical Theatre Performer,15,Eliminated in week 1
-Courtney Robertson,1983,"Scottsdale, Arizona",Model,16,Winner
-Lindzi Cox,1984,"Newcastle, Washington",Business development manager,16,Runner-up
-Nicki Sterling,26,"Hurst, Texas",Dental hygienist,16,Eliminated in week 9
-Kacie Boguskie,1987,"Clarksville, Tennessee",Administrative assistant,16,Eliminated in week 8
-Emily O'Brien,1984,"Chapel Hill, North Carolina",PhD Student,16,Eliminated in week 7
-Rachel Truehart,1984,"Southampton, Massachusetts",Fashion sales representative,16,Eliminated in week 7
-Jamie Otis,1986,"Dryden, New York",Registered nurse,16,Eliminated in week 6
-Casey Shteamer,1985,"Leawood, Kansas",Trading clerk,16,Removed in week 6
-Blakeley Jones,1977,"Rutherfordton, North Carolina",VIP cocktail waitress,16,Eliminated in week 6
-Jennifer Fritsch,1983,"Cache, Oklahoma",Accountant,16,Eliminated in week 5
-Elyse Myers,1987,"Chicago, Illinois",Personal trainer,16,Eliminated in week 5
-Monica Spannbauer,1978,"Yuba, California",Dental consultant,16,Eliminated in week 4
-Samantha Levey,1985,"Pittsburgh, Pennsylvania",Advertising account manager,16,Eliminated in week 4
-Jaclyn Swartz,1984,"Newton, Massachusetts",Advertising account manager,16,Eliminated in week 3
-Erika Uhlig,1988,"Charlottesville, Virginia",Law student,16,Eliminated in week 3
-Brittney Schreiner,1985,"Colorado Springs, Colorado",Medical sales representative,16,Quit in week 3
-Shawn Reynolds,1983,"Cincinnati, Ohio",Financial advisor,16,Eliminated in week 2
-Jenna Burke,1984,"Loveland, Ohio",Blogger,16,Eliminated in week 2
-Amber Bacon,23,"Port Coquitlam, British Columbia",Labor and delivery nurse,16,Eliminated in week 1
-Amber Tierney,28,"Waverly, Nebraska",Critical care nurse,16,Eliminated in week 1
-Anna Snowball,25,"Detroit, Michigan",Student,16,Eliminated in week 1
-Dianna Martinez,1981,"San Gabriel, California",Nonprofit director,16,Eliminated in week 1
-Holly Johnson,34,"Salyersville, Kentucky",Pharmaceutical sales representative,16,Eliminated in week 1
-Lyndsie James,29,"London, England",Internet entrepreneur,16,Eliminated in week 1
-Shira Astrof,35,"Massapequa Park, New York",Actress,16,Eliminated in week 1
-Catherine Giudici,1986,"Seattle, Washington",Graphic Designer,17,Winner
-Lindsay Yenter,1988,"Fort Bragg, North Carolina",Substitute Teacher,17,Runner-up
-AshLee Frazier,1980,"Houston, Texas",Personal Organizer,17,Eliminated in week 9
-Desiree Hartsock,1986,"Northglenn, Colorado",Bridal Stylist,17,Eliminated in week 8
-Lesley Murphy,1987,"Fort Smith, Arkansas",Political Consultant,17,Eliminated in week 7
-Tierra LiCausi,1988,"Las Vegas, Nevada",Leasing Consultant,17,Eliminated in week 7
-Daniella McBride,1988,"Belmont, California",Commercial Casting Associate,17,Eliminated in week 6
-Selma Alameri,1982,"Borrego Springs, California",Real Estate Dealer,17,Eliminated in week 6
-Sarah Herron,1986,"Evergreen, Colorado",Advertising Executive,17,Eliminated in week 6
-Robyn Howard,1988,"Topeka, Kansas",Oil Field Account Manager,17,Eliminated in week 5
-Jackie Parr,1987,"Ormond Beach, Florida",Cosmetics Consultant,17,Eliminated in week 5
-Amanda Meyer,1986,"Bakersfield, California",Fit Model,17,Eliminated in week 4
-Leslie Hughes,1983,"Ruskin, Florida",Poker Dealer,17,Eliminated in week 4
-Kristy Kaminski,1987,"Darien, Wisconsin",Model,17,Eliminated in week 3
-Taryn Daniels,1982,"Troutdale, Oregon",Health Club Manager,17,Eliminated in week 3
-Kacie Boguskie,1987,"Clarksville, Tennessee",Administrative assistant,17,Eliminated in week 3
-Brooke Burchette,25,"Pittsburgh, Pennsylvania",Community Organizer,17,Eliminated in week 2
-Diana Weeks-Willardson,1981,"Sandy, Utah",Salon Owner,17,Eliminated in week 2
-Katie Levans,1985,"Woodstock, Illinois",Yoga Instructor,17,Quit in week 2
-Ashley Harper,25,"Garner, North Carolina",Fashion Model,17,Eliminated in week 1
-Ashley Palenkas,1984,"Macomb, Michigan",Hair Stylist,17,Eliminated in week 1
-Kelly Dutton,1984,"Chattanooga, Tennessee",Cruise Ship Entertainer,17,Eliminated in week 1
-Keriann Miranda,1983,"Agoura Hills, California",Entrepreneur,17,Eliminated in week 1
-Lacey Latka,1988,"Valencia, California",Graduate Student,17,Eliminated in week 1
-Lauren Marchetti,1985,"Cranston, Rhode Island",Journalist,17,Eliminated in week 1
-Paige Vigil,1987,"Minnetonka, Minnesota",Jumbotron Operator,17,Eliminated in week 1
-Nikki Ferrell,1986,"Kearney, Missouri",Pediatric Nurse,18,Winner
-Clare Crawley,1981,"Sacramento, California",Hairstylist,18,Runner-up
-Andi Dorfman,1987,"Buckhead, Georgia",Assistant District Attorney,18,Quit in week 9
-Renee Oteri,1981,"Martha's Vineyard, Massachusetts",Real Estate Agent,18,Eliminated in week 8
-Chelsie Webster,1989,"Lexington, Ohio",Science Educator,18,Eliminated in week 7
-Sharleen Joynt,1984,"Ottawa, Ontario",Opera Singer,18,Quit in week 7
-Kat Hurd,1984,"Iowa City, Iowa",Medical Sales Representative,18,Eliminated in week 6
-Cassandra Ferguson,1991,"Shelby Charter Township, Michigan",Former NBA Dancer,18,Eliminated in week 6
-Alli Restko,1986,"Orland Park, Illinois",Nanny,18,Eliminated in week 5
-Danielle Ronco,1988,"Litchfield, Illinois",Psychiatric Nurse,18,Eliminated in week 5
-Kelly Travis,1986,"Conyers, Georgia",Dog Lover,18,Eliminated in week 5
-Elise Mosca,1986,"Forty Fort, Pennsylvania",First Grade Teacher,18,Eliminated in week 4
-Lauren Solomon,1987,"Clinton, Michigan",Music Composer,18,Eliminated in week 4
-Christy Hansen,1988,"Aurora, Illinois",Marketing Manager,18,Eliminated in week 3
-"Lucinda ""Lucy"" Aragon",1988,"Santa Barbara, California",Free Spirit,18,Eliminated in week 3
-Amy Long,1986,"Clermont, Florida",Local News Reporter,18,Eliminated in week 2
-Chantel Forrest,1986,"Miami, Florida",Account Manager,18,Eliminated in week 2
-Victoria Lima,24,"Porto Alegre, Brazil",Legal Assistant,18,Eliminated in week 2
-Alexis Morgado,1988,"Tampa, Florida",Communications Director,18,Eliminated in week 1
-Amy Jokinen,1981,"Apopka, Florida",Massage Therapist,18,Eliminated in week 1
-Ashley Poe,1987,"Roanoke, Texas",Grade School Teacher,18,Eliminated in week 1
-Christine Llano,1989,"Miami, Florida",Police Support Specialist,18,Eliminated in week 1
-Kylie Lewis,1990,"Rockford, Illinois",Interior Designer,18,Eliminated in week 1
-Lacy Faddoul,1988,"Antelope Acres, California",Nursing Home Owner,18,Eliminated in week 1
-Lauren Higginson,1988,"Edmond, Oklahoma",Mineral Coordinator,18,Eliminated in week 1
-Maggie Gantt,1988,"Wagener, South Carolina",Personal Banker,18,Eliminated in week 1
-Valerie Eredia,1986,"Sutter, California",Personal Trainer,18,Eliminated in week 1
-Whitney Bischoff,1985,"Louisville, Kentucky",Fertility Nurse,19,Winner
-Becca Tilley,1988,"Shreveport, Louisiana",Chiropractic Assistant,19,Runner-up
-Kaitlyn Bristowe,1985,"Leduc, Alberta",Dance Instructor,19,Eliminated in week 9
-Jade Roper,1986,"Gering, Nebraska",Cosmetics Developer,19,Eliminated in week 8
-Carly Waddell,1985,"Arlington, Texas",Cruise Ship Singer,19,Eliminated in week 7
-Britt Nilsson,1987,"Detroit, Michigan",Waitress,19,Eliminated in week 7
-Megan Bell,1989,"Nashville, Tennessee",Make-Up Artist,19,Quit in week 6
-Kelsey Poe,1986,"Hudsonville, Michigan",Guidance Counselor,19,Eliminated in week 6
-Ashley Iaconetti,1988,"Great Falls, Virginia",Nanny/Freelance Journalist,19,Eliminated in week 6
-Mackenzie Deonigi,1993,"Maple Valley, Washington",Dental Assistant,19,Eliminated in week 5
-Samantha Steffen,1987,"Indianapolis, Indiana",Fashion Designer,19,Eliminated in week 5
-Ashley Salter,1990,"Vinings, Georgia",Hair Stylist,19,Eliminated in week 4
-Juelia Kinney,1984,"Portland, Oregon",Esthetician,19,Eliminated in week 4
-Nikki Delventhal,1989,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader,19,Eliminated in week 4
-Jillian Anderson,1989,"Howland, Ohio",News Producer,19,Eliminated in week 4
-Amber James,1985,"Kankakee, Illinois",Bartender,19,Eliminated in week 3
-Tracy Darakis,1985,"Wellington, Florida",Fourth Grade Teacher,19,Eliminated in week 3
-Trina Scherenberg,1981,"Algonquin, Illinois",Special Education Teacher,19,Eliminated in week 3
-Alissa Giambrone,1990,"Hamilton, New Jersey",Flight Attendant,19,Eliminated in week 2
-Jordan Branch,24,"Windsor, Colorado",Student,19,Eliminated in week 2
-Kimberly Sherbach,1986,"Wantagh, New York",Yoga Instructor,19,Eliminated in week 1
-Tandra Steiner,1984,"Sandy, Utah",Executive Assistant,19,Eliminated in week 2
-Tara Eddings,1988,"Fort Lauderdale, Florida",Sport Fishing Enthusiast,19,Eliminated in week 2
-Amanda Goerlitz,1990,"Lake in the Hills, Illinois",Ballet Teacher,19,Eliminated in week 1
-Bo Stanley,1989,"Carpinteria, California",Plus-Size Model,19,Eliminated in week 1
-Brittany Fetkin,1988,"Temecula, California",WWE Diva-in-Training,19,Eliminated in week 1
-Kara Wilson,25,"Brownsville, Kentucky",High School Soccer Coach,19,Eliminated in week 1
-Michelle Davis,25,"Provo, Utah",Wedding Cake Baker,19,Eliminated in week 1
-Nicole Meacham,31,"Scottsdale, Arizona",Real Estate Agent,19,Eliminated in week 1
-Reegan Cornwell,1986,"Manhattan Beach, California",Cadaver Tissue Saleswoman,19,Eliminated in week 1
+",1,1,26.0,6.0
+Tessa Horst,"San Francisco, California",Social worker,10,9,26.0,1.0
+Bevin Powers,"Palo Alto, California",Assistant,10,8,29.0,4.0
+Danielle Imwalle,"Bethel, Connecticut",Graphic designer,10,7,25.0,0.0
+Amber Alchalabi,"Sugar Land, Texas",Teacher,10,6,23.0,2.0
+Stephanie Wilhite,"Overland Park, Kansas",Project manager,10,5,23.0,2.0
+Tina Wu,"Lenox Hill, New York",Medical student,10,5,26.0,1.0
+Kate Brockhouse,"Ravenel, South Carolina",Boutique owner,10,4,24.0,1.0
+Nicole Clary,"Charleston, South Carolina",Sales Manager,10,4,26.0,1.0
+Stephanie Tipper,"Folly Beach, South Carolina",Organ donation coordinator,10,4,27.0,2.0
+Amanda Hackney,"Dallas, Texas",Financial analysts,10,3,26.0,1.0
+Erin Parker,"Logansport, Louisiana",Financial analyst,10,3,24.0,1.0
+Peyton Wright,"La Vergne, Tennessee",Sorority recruiter,10,3,24.0,1.0
+Alexis Young,"Southlake, Texas",Attorney,10,2,26.0,1.0
+Susan Anderson,"The Woodlands, Texas",Boutique manager,10,2,23.0,2.0
+Tiffany Warren,"Boston, Massachusetts",Medical equipment sales representative,10,2,28.0,3.0
+Blakeney Rowe,"Birmingham, Alabama",Radio sales,10,1,29.0,4.0
+Candace DeCost,"Hilton Head Island, South Carolina",Waitress,10,1,23.0,2.0
+Catherine Warren,"Lake Forest, Illinois",Former Miss Illinois,10,1,23.0,2.0
+Danielle Vallis,"Bronx, New York",Attorney,10,1,26.0,1.0
+Jackie Topelli,"Minneapolis, Minnesota",Executive coordinator,10,1,23.0,2.0
+Jeanette Alvarez,"Tampa, Florida",Health care manager,10,1,27.0,2.0
+Jessica Devallo,"New York, New York",Hedge fund analyst,10,1,32.0,7.0
+Linda Malek,"Cuyahoga Falls, Ohio",Attorney,10,1,33.0,8.0
+Lindsay Smith,"Lawrence, Kansas",Student,10,1,22.0,3.0
+Tiffany Forester,"St. Louis Park, Minnesota",Real estate sales/development,10,1,27.0,2.0
+DeAnna Pappas,"Newnan, Georgia",Realtor,11,8,26.0,5.0
+Jenni Croft,"Wichita, Kansas",Phoenix Suns Cheerleader,11,8,28.0,3.0
+Bettina Bell,"Washington, D.C.",Realtor,11,7,27.0,4.0
+Sheena Stewart,"Walnut Creek, California",Internet marketing executive,11,6,23.0,8.0
+Hillary Reisinger,"Philadelphia, Pennsylvania",Registered nurse,11,5,27.0,4.0
+Kristy Katzmann,"Gurnee, Illinois",Acupuncturist,11,5,30.0,1.0
+"Estefania ""Stephy"" Kootz","Atlanta, Georgia",Executive assistant,11,4,26.0,5.0
+Jade Beazley,"Nashville, Tennessee",Boutique sales worker,11,4,24.0,7.0
+McCarten Delaney,"Lemon Grove, California",Account manager,11,4,26.0,5.0
+Lindsey Hawkins,"Livonia, Michigan",Model,11,3,25.0,6.0
+Sarah Newlon,"O'Fallon, Illinois",Bar manager,11,3,23.0,8.0
+Solisa Shoop,"Georgetown, Texas",Esthetician,11,3,26.0,5.0
+Michele Leavy,"South Brunswick, New Jersey",Realtor,11,2,30.0,1.0
+Mallory Simons,"Honolulu, Hawaii",Nanny,11,2,24.0,7.0
+Erin Gardner,"Tampa, Florida",Publishing sales executive,11,2,25.0,6.0
+Jessica Kiss,"Lady Lake, Florida",News anchor,11,1,27.0,4.0
+Juli Gilliam,"Chicago, Illinois",Law student,11,1,24.0,7.0
+Kim Orville,"Woodbridge, Connecticut",Realtor,11,1,31.0,0.0
+Lori Langley,"Annapolis, Maryland",Teacher,11,1,33.0,2.0
+Melissa Buschel,"Westchester, New York",Event planner,11,1,28.0,3.0
+Morgan Becker,"Tempe, Arizona",Graduate student,11,1,24.0,7.0
+Natalie Velasco,"Duncanville, Texas",Law student,11,1,25.0,6.0
+Regina Doringa,"San Diego, California",Account representative,11,1,31.0,0.0
+Tauni Nessler,"St. Louis Park, Minnesota",Emergency room nurse,11,1,31.0,0.0
+Susan Coolidge,"St. Charles, Illinois",Project analyst,11,1,35.0,4.0
+Shayne Lamas,"Malibu, California",Actress,12,9,23.0,0.0
+Chelsea Wanstrath,"Durango, Colorado",Pharmaceutical sales representative,12,8,25.0,2.0
+Amanda Rantuccio,"Niceville, Florida",Account Executive,12,7,28.0,5.0
+Noelle Drake,"Loveland, Colorado",Photographer,12,6,27.0,4.0
+Marshana Ritchie,"Brooklyn, New York",Fashion designer,12,5,27.0,4.0
+Robin Canfield,"Holland, Michigan",Advertising coordinator,12,5,23.0,0.0
+Ashlee Williss,"Jacksonville Beach, Florida",Singer-songwriter,12,4,23.0,0.0
+Kelly Duncan,"Hollywood, California",Medical sales representative,12,4,25.0,2.0
+Holly Durst,"Suffield, Ohio",Children's book author,12,4,25.0,2.0
+Amy Bean,"Stockton, California",Nanny,12,3,23.0,0.0
+Erin Storm,"Venice, California",Hot-dog vendor,12,3,33.0,10.0
+Kristine Heffelfinger,"Dillsburg, Pennsylvania",Personal trainer,12,3,33.0,10.0
+Michelle Procopio,"Syracuse, New York",Administrative assistant,12,2,29.0,6.0
+"Caroline ""Carri"" Perrier","Oklahoma City, Oklahoma",Church marketing representative,12,2,25.0,2.0
+Erin Harper,"Seattle, Washington",Event planner,12,2,25.0,2.0
+Alyssa Gill,"Boise, Idaho",Biology student,12,1,24.0,1.0
+Amanda Petterman,"LaFollette, Tennessee",Law student,12,1,26.0,3.0
+Denise Hawthorne,"Washington, D.C",Attorney,12,1,30.0,7.0
+Devon Antin,"Austin, Texas",Makeup artist,12,1,24.0,1.0
+Lesley Geyer,"Tampa, Florida",Youth minister,12,1,24.0,1.0
+Michele Romero,"Laguna Niguel, California",Interior designer,12,1,33.0,10.0
+Rebecca LeBlanc,"Alamo, California",Attorney,12,1,30.0,7.0
+Stacey Elza,"Chicago, Illinois",Graduate student,12,1,27.0,4.0
+Tamara Sketz,"Beverly Hills, California",Cocktail waitress,12,1,23.0,0.0
+Tiffany Thornburg,"San Francisco, California",Real estate marketing representative,12,1,33.0,10.0
+Melissa Rycroft,"Dallas, Texas",Sales representative,13,9,26.0,2.0
+Molly Malaney,"Brookfield, Wisconsin",Department store buyer,13,8,25.0,3.0
+Jillian Harris,"Peace River, Alberta",Interior designer,13,7,30.0,2.0
+Naomi Crespo,"Carlsbad, California",Flight attendant,13,6,25.0,3.0
+Stephanie Hogan,"Huntsville, Alabama",Medical marketing representative,13,5,35.0,7.0
+Lauren Wanger,"Marlboro, New Jersey",Teacher,13,4,28.0,0.0
+Megan Parris,"Sewickley, Pennsylvania",Lacrosse coach,13,4,26.0,2.0
+Shannon Bair,"Marshall, Missouri",Dental hygienist,13,4,30.0,2.0
+Nikki Kaapke,"Blue Island, Illinois",Administrative assistant,13,4,30.0,2.0
+Erica DeSimone,"Monroe, Connecticut",Account executive,13,3,25.0,3.0
+Kari Fajen,"Lee's Summit, Missouri",Account executive,13,3,28.0,0.0
+Natalie Getz,"Morton, Illinois",Human resources recruiter,13,3,28.0,0.0
+Raquel Medeiros,"Recife, Pernambuco, Brazil",Medical student,13,2,28.0,0.0
+Sharon Staebell,"Batavia, New York",Teacher,13,2,33.0,5.0
+Lisa Gonzalez,"Boise, Idaho",Public relations associate,13,2,28.0,0.0
+Ann Lueders,"Phoenix, Arizona",Flight attendant,13,1,24.0,4.0
+Dominique Carta,"Mt. Carmel, Pennsylvania",Medical sales representative,13,1,27.0,1.0
+Emily,"Seattle, Washington",Casino marketing representative,13,1,23.0,5.0
+Jackie Hickey,"Springfield, Massachusetts",Wedding coordinator,13,1,26.0,2.0
+Julie Dermotta,"Columbus, Ohio",Teacher,13,1,27.0,1.0
+Nicole Mah,"Calgary, Alberta",Menswear buyer,13,1,25.0,3.0
+Renee Simlak,"Southfield, Michigan",Jewelry designer,13,1,37.0,9.0
+Shelby,"Stockton, California",Account executive,13,1,23.0,5.0
+Stacia Mann,"Orem, Utah",Charity accountant,13,1,25.0,3.0
+Treasure Morgan,"Salt Lake City, Utah",Nurse practitioner,13,1,28.0,0.0
+Vienna Girardi,"Geneva, Florida",Marketing representative,14,9,24.0,2.0
+Tenley Molzahn,"Newberg, Oregon",College admissions,14,8,26.0,0.0
+Gia Allemand,"New York, New York", Swimsuit model,14,7,27.0,1.0
+Ali Fedotowsky,"Williamstown, Massachusetts",Advertising account manager,14,6,26.0,0.0
+Corrie Adamson,"Kissimmee, Florida",Wardrobe consultant,14,5,24.0,2.0
+Ashleigh Hunt,"North Potomac, Maryland",Account manager,14,4,26.0,0.0
+Jessie Sulidis,"Oakville, Ontario",Cosmetic sales manager,14,4,26.0,0.0
+Kathryn Sherlock,"Lexington, Kentucky",Corporate flight attendant,14,4,26.0,0.0
+Ella Nolan,"La Follette, Tennessee",Hair stylist,14,4,31.0,5.0
+Elizabeth Kitt,"Imperial, Nebraska",Nanny,14,3,30.0,4.0
+Valishia Savage,"San Bernardino, California",Homemaker,14,3,33.0,7.0
+Michelle Kujawa,"Anaheim, California",Office manager,14,3,27.0,1.0
+Ashley Elmore,"Pittsburgh, Pennsylvania",Teacher,14,2,29.0,3.0
+Christina McCasland,"San Diego, California",Restaurant manager,14,2,26.0,0.0
+Rozlyn Papa,"Richmond, Virginia",Model/Makeup artist,14,2,29.0,3.0
+"Alexa ""Lex"" McAllister","Galloway, Ohio",Entrepreneur,14,1,26.0,0.0
+Caitlyn McCabe,"Winfield, Illinois",Spokesmodel,14,1,25.0,1.0
+Channy Choch,"Santa Rosa, California",Mortgage loan officer,14,1,29.0,3.0
+Elizabeth Kreft,"Union, Kentucky","Captain, Air National Guard",14,1,31.0,5.0
+Emily Harkins,"West Chester, Ohio",Fitness model,14,1,24.0,2.0
+Kimberly Sullivan,"Norman, Oklahoma",NBA dancer,14,1,24.0,2.0
+Kirsten Pittman,"Aurora, Colorado",Waitress,14,1,26.0,0.0
+Sheila Lidner,"Scottsdale, Arizona",Commercial pilot,14,1,25.0,1.0
+Stephanie Mueller,"Morris, Illinois",Dance teacher,14,1,24.0,2.0
+Tiana Kruzel,"Calgary, Alberta",Medical technician,14,1,31.0,5.0
+Emily Maynard,"Morgantown, West Virginia",Children's Hospital Event Planner,15,11,25.0,8.0
+Chantal O'Brien,"Mercer Island, Washington",Executive Assistant,15,10,29.0,4.0
+Ashley Hebert,"Madawaska, Maine",Dental Student,15,9,27.0,6.0
+Shawntel Newton,"Chico, California",Funeral Director,15,8,27.0,6.0
+Michelle Money,"Salt Lake City, Utah",Hair stylist,15,7,31.0,2.0
+Britt Billmaier,"Woodinville, Washington",Food writer,15,7,26.0,7.0
+Jackie Gordon,"Newport, Rhode Island",Artist,15,6,27.0,6.0
+Alli Travis,"Columbus, Ohio",Apparel merchant,15,6,25.0,8.0
+Lisa Morrisey,"Ottawa, Kansas",Marketing Coordinator,15,5,25.0,8.0
+Marissa May,"Mesa, Arizona",Sports Publicist,15,5,27.0,6.0
+Ashley Spivey,"Ellerbe, North Carolina",Nanny,15,5,27.0,6.0
+Lindsay Hill,"Plano, Texas",First grade teacher,15,4,26.0,7.0
+Meghan Merritt,"Princeton, New Jersey",Fashion Marketer,15,4,31.0,2.0
+Stacey Quirpel,"Quincy, Massachusetts",Bartender,15,4,26.0,7.0
+Kimberly Coon,"Orlando, Florida",Marketing Coordinator,15,3,29.0,4.0
+Sarah Powell,"Denver, Colorado",Real Estate Broker,15,3,27.0,6.0
+Madison Garton,"Vail, Colorado",Model,15,3,26.0,7.0
+Keltie Busch,"Sherwood Park, Alberta",Radio City Rockette,15,2,29.0,4.0
+Melissa Schreiber,"Westport, Connecticut",Waitress,15,2,33.0,0.0
+Raichel Goodyear,"Fullerton, California",Manscaper,15,2,30.0,3.0
+Britnee Marks,"Holland, Pennsylvania",Paralegal,15,1,26.0,7.0
+Cristy Caserta,"Davie, Florida", Attorney,15,1,31.0,2.0
+"Jessica ""J"" Adams","Seattle, Washington",Operations Manager,15,1,26.0,7.0
+Jill Ruskowski,"Frisco, Texas",Sales director,15,1,29.0,4.0
+Lacey Garbelman,"Tampa, Florida",Insurance agent,15,1,28.0,5.0
+Lauren Moore,"Culpeper, Virginia",High School Teacher,15,1,27.0,6.0
+Lisa Pastrich,"Dix Hills, New York",Sales Consultant,15,1,28.0,5.0
+Rebecca,"Mission Viejo, California",Esthetician,15,1,30.0,3.0
+Renee Halpin,"Palos Hills, Illinois",Nanny,15,1,29.0,4.0
+Sarah Ledtke,"Saginaw, Michigan",Musical Theatre Performer,15,1,26.0,7.0
+Courtney Robertson,"Scottsdale, Arizona",Model,16,11,29.0,5.0
+Lindzi Cox,"Newcastle, Washington",Business development manager,16,10,28.0,4.0
+Nicki Sterling,"Hurst, Texas",Dental hygienist,16,9,26.0,2.0
+Kacie Boguskie,"Clarksville, Tennessee",Administrative assistant,16,8,25.0,1.0
+Emily O'Brien,"Chapel Hill, North Carolina",PhD Student,16,7,28.0,4.0
+Rachel Truehart,"Southampton, Massachusetts",Fashion sales representative,16,7,28.0,4.0
+Jamie Otis,"Dryden, New York",Registered nurse,16,6,26.0,2.0
+Casey Shteamer,"Leawood, Kansas",Trading clerk,16,6,27.0,3.0
+Blakeley Jones,"Rutherfordton, North Carolina",VIP cocktail waitress,16,6,35.0,11.0
+Jennifer Fritsch,"Cache, Oklahoma",Accountant,16,5,29.0,5.0
+Elyse Myers,"Chicago, Illinois",Personal trainer,16,5,25.0,1.0
+Monica Spannbauer,"Yuba, California",Dental consultant,16,4,34.0,10.0
+Samantha Levey,"Pittsburgh, Pennsylvania",Advertising account manager,16,4,27.0,3.0
+Jaclyn Swartz,"Newton, Massachusetts",Advertising account manager,16,3,28.0,4.0
+Erika Uhlig,"Charlottesville, Virginia",Law student,16,3,24.0,0.0
+Brittney Schreiner,"Colorado Springs, Colorado",Medical sales representative,16,3,27.0,3.0
+Shawn Reynolds,"Cincinnati, Ohio",Financial advisor,16,2,29.0,5.0
+Jenna Burke,"Loveland, Ohio",Blogger,16,2,28.0,4.0
+Amber Bacon,"Port Coquitlam, British Columbia",Labor and delivery nurse,16,1,23.0,1.0
+Amber Tierney,"Waverly, Nebraska",Critical care nurse,16,1,28.0,4.0
+Anna Snowball,"Detroit, Michigan",Student,16,1,25.0,1.0
+Dianna Martinez,"San Gabriel, California",Nonprofit director,16,1,31.0,7.0
+Holly Johnson,"Salyersville, Kentucky",Pharmaceutical sales representative,16,1,34.0,10.0
+Lyndsie James,"London, England",Internet entrepreneur,16,1,29.0,5.0
+Shira Astrof,"Massapequa Park, New York",Actress,16,1,35.0,11.0
+Catherine Giudici,"Seattle, Washington",Graphic Designer,17,11,27.0,4.0
+Lindsay Yenter,"Fort Bragg, North Carolina",Substitute Teacher,17,10,25.0,2.0
+AshLee Frazier,"Houston, Texas",Personal Organizer,17,9,33.0,10.0
+Desiree Hartsock,"Northglenn, Colorado",Bridal Stylist,17,8,27.0,4.0
+Lesley Murphy,"Fort Smith, Arkansas",Political Consultant,17,7,26.0,3.0
+Tierra LiCausi,"Las Vegas, Nevada",Leasing Consultant,17,7,25.0,2.0
+Daniella McBride,"Belmont, California",Commercial Casting Associate,17,6,25.0,2.0
+Selma Alameri,"Borrego Springs, California",Real Estate Dealer,17,6,31.0,8.0
+Sarah Herron,"Evergreen, Colorado",Advertising Executive,17,6,27.0,4.0
+Robyn Howard,"Topeka, Kansas",Oil Field Account Manager,17,5,25.0,2.0
+Jackie Parr,"Ormond Beach, Florida",Cosmetics Consultant,17,5,26.0,3.0
+Amanda Meyer,"Bakersfield, California",Fit Model,17,4,27.0,4.0
+Leslie Hughes,"Ruskin, Florida",Poker Dealer,17,4,30.0,7.0
+Kristy Kaminski,"Darien, Wisconsin",Model,17,3,26.0,3.0
+Taryn Daniels,"Troutdale, Oregon",Health Club Manager,17,3,31.0,8.0
+Brooke Burchette,"Pittsburgh, Pennsylvania",Community Organizer,17,2,25.0,2.0
+Diana Weeks-Willardson,"Sandy, Utah",Salon Owner,17,2,32.0,9.0
+Katie Levans,"Woodstock, Illinois",Yoga Instructor,17,2,28.0,5.0
+Ashley Harper,"Garner, North Carolina",Fashion Model,17,1,25.0,2.0
+Ashley Palenkas,"Macomb, Michigan",Hair Stylist,17,1,29.0,6.0
+Kelly Dutton,"Chattanooga, Tennessee",Cruise Ship Entertainer,17,1,29.0,6.0
+Keriann Miranda,"Agoura Hills, California",Entrepreneur,17,1,30.0,7.0
+Lacey Latka,"Valencia, California",Graduate Student,17,1,25.0,2.0
+Lauren Marchetti,"Cranston, Rhode Island",Journalist,17,1,28.0,5.0
+Paige Vigil,"Minnetonka, Minnesota",Jumbotron Operator,17,1,26.0,3.0
+Nikki Ferrell,"Kearney, Missouri",Pediatric Nurse,18,11,28.0,2.0
+Clare Crawley,"Sacramento, California",Hairstylist,18,10,33.0,7.0
+Andi Dorfman,"Buckhead, Georgia",Assistant District Attorney,18,9,27.0,1.0
+Renee Oteri,"Martha's Vineyard, Massachusetts",Real Estate Agent,18,8,33.0,7.0
+Chelsie Webster,"Lexington, Ohio",Science Educator,18,7,25.0,1.0
+Sharleen Joynt,"Ottawa, Ontario",Opera Singer,18,7,30.0,4.0
+Kat Hurd,"Iowa City, Iowa",Medical Sales Representative,18,6,30.0,4.0
+Cassandra Ferguson,"Shelby Charter Township, Michigan",Former NBA Dancer,18,6,23.0,3.0
+Alli Restko,"Orland Park, Illinois",Nanny,18,5,28.0,2.0
+Danielle Ronco,"Litchfield, Illinois",Psychiatric Nurse,18,5,26.0,0.0
+Kelly Travis,"Conyers, Georgia",Dog Lover,18,5,28.0,2.0
+Elise Mosca,"Forty Fort, Pennsylvania",First Grade Teacher,18,4,28.0,2.0
+Lauren Solomon,"Clinton, Michigan",Music Composer,18,4,27.0,1.0
+Christy Hansen,"Aurora, Illinois",Marketing Manager,18,3,26.0,0.0
+"Lucinda ""Lucy"" Aragon","Santa Barbara, California",Free Spirit,18,3,26.0,0.0
+Amy Long,"Clermont, Florida",Local News Reporter,18,2,28.0,2.0
+Chantel Forrest,"Miami, Florida",Account Manager,18,2,28.0,2.0
+Victoria Lima,"Porto Alegre, Brazil",Legal Assistant,18,2,24.0,2.0
+Alexis Morgado,"Tampa, Florida",Communications Director,18,1,26.0,0.0
+Amy Jokinen,"Apopka, Florida",Massage Therapist,18,1,33.0,7.0
+Ashley Poe,"Roanoke, Texas",Grade School Teacher,18,1,27.0,1.0
+Christine Llano,"Miami, Florida",Police Support Specialist,18,1,25.0,1.0
+Kylie Lewis,"Rockford, Illinois",Interior Designer,18,1,24.0,2.0
+Lacy Faddoul,"Antelope Acres, California",Nursing Home Owner,18,1,26.0,0.0
+Lauren Higginson,"Edmond, Oklahoma",Mineral Coordinator,18,1,26.0,0.0
+Maggie Gantt,"Wagener, South Carolina",Personal Banker,18,1,26.0,0.0
+Valerie Eredia,"Sutter, California",Personal Trainer,18,1,28.0,2.0
+Whitney Bischoff,"Louisville, Kentucky",Fertility Nurse,19,11,30.0,4.0
+Becca Tilley,"Shreveport, Louisiana",Chiropractic Assistant,19,10,27.0,1.0
+Kaitlyn Bristowe,"Leduc, Alberta",Dance Instructor,19,9,30.0,4.0
+Jade Roper,"Gering, Nebraska",Cosmetics Developer,19,8,29.0,3.0
+Carly Waddell,"Arlington, Texas",Cruise Ship Singer,19,7,30.0,4.0
+Britt Nilsson,"Detroit, Michigan",Waitress,19,7,28.0,2.0
+Megan Bell,"Nashville, Tennessee",Make-Up Artist,19,6,26.0,0.0
+Kelsey Poe,"Hudsonville, Michigan",Guidance Counselor,19,6,29.0,3.0
+Ashley Iaconetti,"Great Falls, Virginia",Nanny/Freelance Journalist,19,6,27.0,1.0
+Mackenzie Deonigi,"Maple Valley, Washington",Dental Assistant,19,5,22.0,4.0
+Samantha Steffen,"Indianapolis, Indiana",Fashion Designer,19,5,28.0,2.0
+Ashley Salter,"Vinings, Georgia",Hair Stylist,19,4,25.0,1.0
+Juelia Kinney,"Portland, Oregon",Esthetician,19,4,31.0,5.0
+Nikki Delventhal,"Hasbrouck Heights, New Jersey",Former NFL Cheerleader,19,4,26.0,0.0
+Jillian Anderson,"Howland, Ohio",News Producer,19,4,26.0,0.0
+Amber James,"Kankakee, Illinois",Bartender,19,3,30.0,4.0
+Tracy Darakis,"Wellington, Florida",Fourth Grade Teacher,19,3,30.0,4.0
+Trina Scherenberg,"Algonquin, Illinois",Special Education Teacher,19,3,34.0,8.0
+Alissa Giambrone,"Hamilton, New Jersey",Flight Attendant,19,2,25.0,1.0
+Jordan Branch,"Windsor, Colorado",Student,19,2,24.0,2.0
+Kimberly Sherbach,"Wantagh, New York",Yoga Instructor,19,1,29.0,3.0
+Tandra Steiner,"Sandy, Utah",Executive Assistant,19,2,31.0,5.0
+Tara Eddings,"Fort Lauderdale, Florida",Sport Fishing Enthusiast,19,2,27.0,1.0
+Amanda Goerlitz,"Lake in the Hills, Illinois",Ballet Teacher,19,1,25.0,1.0
+Bo Stanley,"Carpinteria, California",Plus-Size Model,19,1,26.0,0.0
+Brittany Fetkin,"Temecula, California",WWE Diva-in-Training,19,1,27.0,1.0
+Kara Wilson,"Brownsville, Kentucky",High School Soccer Coach,19,1,25.0,1.0
+Michelle Davis,"Provo, Utah",Wedding Cake Baker,19,1,25.0,1.0
+Nicole Meacham,"Scottsdale, Arizona",Real Estate Agent,19,1,31.0,5.0
+Reegan Cornwell,"Manhattan Beach, California",Cadaver Tissue Saleswoman,19,1,29.0,3.0
 "Helene Eksterowicz
-",1975,"Gloucester, New Jersey
+","Gloucester, New Jersey
 ","School psychologist
-",2,"Winner
-"
+",2,8,27.0,7.0
 "Brooke Smith
-",1980,"Albertville, Alabama
+","Albertville, Alabama
 ","College student
-",2,"Runner-Up
-"
+",2,7,22.0,12.0
 "Gwen Gioia
-",1971,"Philadelphia, Pennsylvania
+","Philadelphia, Pennsylvania
 ","Executive recruiter
-",2,"Week 6
-"
+",2,6,31.0,3.0
 "Angela Vaught
-",27,"Kansas City, Missouri
+","Kansas City, Missouri
 ","Registered nurse
-",2,"Week 5
-"
+",2,5,27.0,7.0
 "Hayley Crittenden
-",28,"Lake Oswego, Oregon
+","Lake Oswego, Oregon
 ","Retail manager
-",2,"Week 4
-"
+",2,4,28.0,6.0
 "Heather Cranford
-",30,"Dallas, Texas
+","Dallas, Texas
 ","Flight attendant
-",2,"Week 4
-"
+",2,4,30.0,4.0
 "Christi Weible
-",23,"Boise, Idaho
+","Boise, Idaho
 ","Assistant financial advisor
-",2,"Week 3
-"
+",2,3,23.0,11.0
 "Heather Campion
-",24,"Walnut Creek, California
+","Walnut Creek, California
 ","Marriage therapy trainee
-",2,"Week 3
-"
+",2,3,24.0,10.0
 "Kyla Dickerson
-",22,"Midvale, Utah
+","Midvale, Utah
 ","Airline supervisor
-",2,"Week 3
-"
+",2,3,22.0,12.0
 "Shannon Fries
-",26,"Long Island, New York
+","Long Island, New York
 ","Graphic artist
-",2,"Week 3
-"
+",2,3,26.0,8.0
 "Dana Norris
-",24,"Beverly Hills, California
+","Beverly Hills, California
 ","Radio sales
-",2,"Week 2
-"
+",2,2,24.0,10.0
 "Erin B.
-",25,"Westchester, Pennsylvania
+","Westchester, Pennsylvania
 ","Publications quality control
-",2,"Week 2
-"
+",2,2,25.0,9.0
 "Suzanne Freeman
-",33,"Redondo Beach, California
+","Redondo Beach, California
 ","Flight attendant
-",2,"Week 2
-"
+",2,2,33.0,1.0
 "Frances Dinglasan
-",30,"San Francisco, California
+","San Francisco, California
 ","Strategic planning analyst
-",2,"Week 2 (Quit)
-"
+",2,2,30.0,4.0
 "Anindita Dutta
-",27,"New York, New York
+","New York, New York
 ","Attorney
-",2,"Week 2 (Quit)
-"
+",2,2,27.0,7.0
 "Amber West
-",26,"Chapel Hill, North Carolina
+","Chapel Hill, North Carolina
 ","Psychologist
-",2,"Week 1
-"
+",2,1,26.0,8.0
 "Camille Langfield
-",29,"Los Angeles, California
+","Los Angeles, California
 ","Actress
-",2,"Week 1
-"
+",2,1,29.0,5.0
 "Cari
-",29,"Granite City, Illinois
+","Granite City, Illinois
 ","Teacher
-",2,"Week 1
-"
+",2,1,29.0,5.0
 "Christy
-",24,"Avondale, Arizona
+","Avondale, Arizona
 ","Radiological technologist
-",2,"Week 1
-"
+",2,1,24.0,10.0
 "Erin
-",24,"Houston, Texas
+","Houston, Texas
 ","Interior designer
-",2,"Week 1
-"
+",2,1,24.0,10.0
 "Fatima Rivas
-",22,"Long Beach, California
+","Long Beach, California
 ","College student
-",2,"Week 1
-"
+",2,1,22.0,12.0
 "Liangy Fernandez
-",30,"Coral Gables, Florida
+","Coral Gables, Florida
 ","Paralegal
-",2,"Week 1
-"
+",2,1,30.0,4.0
 "Lori Todd
-",26,"Dallas, Texas
+","Dallas, Texas
 ","Former NBA cheerleader
-",2,"Week 1
-"
+",2,1,26.0,8.0
 "Merrilee Donahue
-",28,"Forked River, New Jersey
+","Forked River, New Jersey
 ","Teacher
-",2,"Week 1
-"
+",2,1,28.0,6.0
 "Suzi Reid
-",28,"Richmond, Virginia
+","Richmond, Virginia
 ","Communications specialist
-",2,"Week 1
-"
-Lauren Bushnell,1990,"West Linn, Oregon",Flight Attendant,20,Winner
-"Joelle ""JoJo"" Fletcher",1990,"Dallas, Texas",Real Estate Developer,20,Runner-up
-Caila Quinn,1991,"Hudson, Ohio",Software Sales Representative,20,Eliminated in week 9
-Amanda Stanton,1990,"Laguna Beach, California",Esthetician,20,Eliminated in week 8
-Becca Tilley,1988,"Shreveport, Louisiana",Chiropractic Assistant,20,Eliminated in week 7
-Emily Ferguson,1992,"Las Vegas, Nevada",Waitress/Twin,20,Eliminated in week 7
-Lauren Himle,1990,"Dexter, Michigan",Kindergarten Teacher,20,Eliminated in week 6
-Olivia Caridi,1992,"Austin, Texas",Former News Anchor,20,Eliminated in week 6
-Leah Block,1990,"Aurora, Colorado",Event Planner,20,Eliminated in week 6
-Jennifer Saviano,1989,"Davie, Florida",Small Business Owner,20,Eliminated in week 5
-Jubilee Sharpe,1991,"Fort Lauderdale, Florida",War Veteran,20,Eliminated in week 5
-Amber James,1985,"Kankakee, Illinois",Bartender,20,Eliminated in week 4
-Rachel Tchen,1992,"Little Rock, Arkansas",Unemployed,20,Eliminated in week 4
-Haley Ferguson,1992,"Las Vegas, Nevada",Waitress/Twin,20,Eliminated in week 4
-Jami Letain,1992,"St. Albert, Alberta",Bartender,20,Eliminated in week 3
-Shushanna Mkrtychyan,1988,"Salt Lake City, Utah",Property manager,20,Eliminated in week 3
-Lace Morris,1989,"Denver, Colorado",Real Estate Agent,20,Quit in week 3
-"Amanda ""Mandi"" Kremer",1986,"Portland, Oregon",Dentist,20,Eliminated in week 2
-"Jacqueline ""Jackie"" Dion",1992,"Newport Beach, California",Gerontologist,20,Eliminated in week 2
-Samantha Passmore,1988,"New Smyrna Beach, Florida",Attorney,20,Eliminated in week 2
-"Lauren ""LB"" Barr",1992,"Stillwater, Oklahoma",Fashion Buyer,20,Quit in week 2
-Breanne Rice,1985,"Seattle, Washington",Nutritional Therapist,20,Eliminated in week 1
-Izzy Goodkind,1990,"Branford, Connecticut",Graphic Designer,20,Eliminated in week 1
-Jessica Moser,1992,"Boca Raton, Florida",Accountant,20,Eliminated in week 1
-Laura Esselman,1991,"Louisville, Kentucky",Account Executive,20,Eliminated in week 1
-Lauren Russell,1989,"Houston, Texas",Math Teacher,20,Eliminated in week 1
-Maegan Miller,1985,"Visalia, California",Cowgirl,20,Eliminated in week 1
-Tiara Soleim,1988,"Redmond, Washington",Chicken Enthusiast,20,Eliminated in week 1
-Vanessa Grimaldi,1987,"Montreal, Quebec",Special Education Teacher,21,Winner
-Raven Gates,1991,"Hoxie, Arkansas",Fashion Boutique Owner,21,Runner-up
-Rachel Lindsay,1985,"Dallas, Texas",Attorney,21,Eliminated in week 9
-Corinne Olympios,1991,"Miami, Florida",Business Owner,21,Eliminated in week 8
-Kristina Schulman,1991,"Lexington, Kentucky",Dental Hygienist,21,Eliminated in week 7
-Danielle Maltby,1985,"Germantown, Wisconsin",Neonatal Nurse,21,Eliminated in week 7
-Danielle Lombard,1988,"Los Angeles, California",Small Business Owner,21,Eliminated in week 6
-Whitney Fransway,1991,"Chanhassen, Minnesota",Pilates Instructor,21,Eliminated in week 6
-Jasmine Goode,1987,"Maplewood, New Jersey",Pro Basketball Dancer,21,Eliminated in week 6
-Alexis Waters,1993,"Secaucus, New Jersey",Aspiring Dolphin Trainer,21,Eliminated in week 5
-Jaimi King,1988,"New Orleans, Louisiana",Chef,21,Eliminated in week 5
-Josephine Tutman,1992,"Santa Cruz, California",Unemployed Nurse,21,Eliminated in week 5
-Taylor Nolan,1993,"Seattle, Washington",Mental Health Counselor,21,Eliminated in week 5
-Astrid Loch,1990,"Tampa, Florida",Plastic Surgery Office Manager,21,Eliminated in week 4
-Sarah Vendal,1990,"Newport Beach, California",Grade School Teacher,21,Eliminated in week 4
-Brittany Farrar,1990,"Santa Monica, California",Travel Nurse,21,Eliminated in week 3
-Christen Whitney,1991,"Tulsa, Oklahoma",Wedding Videographer,21,Eliminated in week 3
-Dominique Alexis,1990,"Los Angeles, California",Restaurant Server,21,Eliminated in week 3
-Elizabeth Whitelaw,1991,"New Trier, Illinois",Marketing Manager,21,Eliminated in week 2
-Hailey Merkt,1992,"Vancouver, British Columbia",Photographer,21,Eliminated in week 2
-Lacey Mark,1990,"Montville, New Jersey",Digital Marketing Manager,21,Eliminated in week 2
-"Elizabeth ""Liz"" Sandoz",1987,"Scottsbluff, Nebraska",Doula,21,Eliminated in week 2
-Angela Amezcua,1989,"Greenville, South Carolina",Model,21,Eliminated in week 1
-Briana Guertler,1987,"Salt Lake City, Utah",Surgical Unit Nurse,21,Eliminated in week 1
-Ida Marie DeLosSantos,1993,"Harlingen, Texas",Sales Manager,21,Eliminated in week 1
-Jasmine Brown,1991,"Tacoma, Washington",Flight Attendant,21,Eliminated in week 1
-Lauren Hussey,1986,"Naples, Florida",Law School Graduate,21,Eliminated in week 1
-Olivia Burnette,1991,"Anchorage, Alaska",Apparel Sales Representative,21,Eliminated in week 1
-Michelle Ramkissoon,24,"Los Angeles, California",Food Truck Owner,21,Eliminated in week 1
-Susannah Milan,1990,"San Diego, California",Account Manager,21,Eliminated in week 1
-Becca Kufrin,1990,"Prior Lake, Minnesota",Publicist,22,Winner
-Lauren Burnham,1991,"Virginia Beach, Virginia",Technology Salesperson,22,Runner-up
-Kendall Long,1991,"Santa Clarita, California",Creative Director,22,Eliminated in week 9
-Tia Booth,1991,"Weiner, Arkansas",Physical Therapist,22,Eliminated in week 8
-Bekah Martinez,1995,"Clovis, California",Nanny,22,Eliminated in week 7
-Seinne Fleming,1990,"Long Beach, California",Commercial Real Estate Manager,22,Eliminated in week 7
-Jacqueline Trumbull,1991,"Morgantown, West Virginia",Real Estate Coordinator,22,Quit in week 7
-Chelsea Roy,1988,"South Portland, Maine",Real Estate Executive Assistant,22,Eliminated in week 6
-Jenna Cooper,1989,"Upland, Indiana",Social Media Manager,22,Eliminated in week 6
-Krystal Nielson,1987,"Missoula, Montana",Fitness Coach,22,Eliminated in week 6
-Ashley Luebke,1992,"West Palm Beach, Florida",Real Estate Agent,22,Eliminated in week 5
-Maquel Cooper,1994,"American Fork, Utah",Photographer,22,Eliminated in week 5
-Marikh Mathias,1990,"Salt Lake City, Utah",Restaurant Owner,22,Eliminated in week 5
-Brittany Taylor,1987,"Belton, South Carolina",Tech Recruiter,22,Eliminated in week 4
-Caroline Lunny,1990,"Holliston, Massachusetts",Realtor,22,Eliminated in week 4
-Bibiana Julian,1987,"Miami, Florida",Executive Assistant,22,Eliminated in week 3
-Annaliese Puccini,1984,"San Mateo, California",Event Designer,22,Eliminated in week 3
-Lauren Schleyer,1986,"Dallas, Texas",Social Media Manager,22,Eliminated in week 3
-"Jennifer ""Jenny"" Delaney",1992,"Northbrook, Illinois",Graphic Designer,22,Eliminated in week 2
-Lauren Griffin,1991,"Indianapolis, Indiana",Executive Recruiter,22,Eliminated in week 2
-Valerie Biles,25,"Nashville, Tennessee",Server,22,Eliminated in week 2
-"Alison ""Ali"" Harrington",1990,"Lawton, Oklahoma",Personal Stylist,22,Eliminated in week 1
-Amber Wilkerson,1988,"Denver, Colorado",Business Owner,22,Eliminated in week 1
-"Brianna ""Bri"" Amaranthus",1992,"Grants Pass, Oregon",Sports Reporter,22,Eliminated in week 1
-Brittane Johnson,1990,"San Diego, California",Marketing Manager,22,Eliminated in week 1
-Jessica Carroll,1990,"Calgary, Alberta",Television Host,22,Eliminated in week 1
-Lauren Jarreau,1984,"New Roads, Louisiana",Recent Master's Graduate,22,Eliminated in week 1
-Nysha Norris,1987,"Anderson, South Carolina",Orthopedic Nurse,22,Eliminated in week 1
-Olivia Goethals,1993,"Geneseo, Illinois",Marketing Associate,22,Eliminated in week 1
-Cassie Randolph,1995,"Huntington Beach, California",Speech Pathologist,23,Winner
-Hannah Godwin,1995,"Birmingham, Alabama",Content Creator,23,Eliminated in week 9
-Tayshia Adams,1990,"Santa Ana, California",Phlebotomist,23,Eliminated in week 9
-Caelynn Miller-Keyes,1995,"Fredericksburg, Virginia",Miss North Carolina USA 2018,23,Eliminated in week 8
-Kirpa Sudick,1992,"Whittier, California",Dental Hygienist,23,Eliminated in week 7
-Heather Martin,1995,"Carlsbad, California",Assistant Program Manager,23,Quit in week 7
-Hannah Brown,1994,"Tuscaloosa, Alabama",Miss Alabama USA 2018,23,Eliminated in week 7
-Katie Morton,1992,"Oviedo, Florida",Medical Sales Representative,23,Eliminated in week 6
-Demi Burnett,1995,"Red Oak, Texas",Interior Designer,23,Eliminated in week 6
-Sydney Lotuaco,1991,"Virginia Beach, Virginia",NBA Dancer,23,Quit in week 6
-Nicole Lopez-Alvar,1992,"Miami, Florida",Social Media Coordinator,23,Eliminated in week 5
-Onyeka Ehie,1994,"Dallas, Texas",IT Risk Consultant,23,Eliminated in week 5
-Elyse Dehlbom,1987,"Soldotna, Alaska",Makeup Artist,23,Quit in week 5
-Courtney Curtis,1995,"McDonough, Georgia",Caterer,23,Eliminated in week 4
-Tracy Shapoff,1986,"Los Angeles, California",Wardrobe Stylist,23,Eliminated in week 4
-"Brianna ""Bri"" Barnes",1994,"Los Angeles, California",Model,23,Eliminated in week 3
-Catherine Agro,1991,"Fort Lauderdale, Florida",DJ,23,Eliminated in week 3
-Nina Bartula,30,"Raleigh, North Carolina",Sales Account Manager,23,Eliminated in week 3
-Caitlin Clemmens,1993,"Toronto, Ontario",Realtor,23,Eliminated in week 3
-Alex Blumberg,1989,"Vancouver, British Columbia",Dog Rescuer,23,Eliminated in week 2
-Angelique Sherman,1990,"Hamilton, New Jersey",Marketing Sales Assistant,23,Eliminated in week 2
-Annie Reardon,1995,"Mequon, Wisconsin",Financial Associate,23,Eliminated in week 2
-Erika McNutt,1993,"Encinitas, California",Recruiter,23,Eliminated in week 2
-Alex Dillon,1994,"Boston, Massachusetts",IT Account Manager,23,Eliminated in week 1
-Devin Gooden,1994,"Medford, Oregon",Broadcast Journalist,23,Eliminated in week 1
-Erin Landry,1990,"Plano, Texas",Home Improvement Employee,23,Eliminated in week 1
-Jane Averbukh,1992,"West Hollywood, California",Social Worker,23,Eliminated in week 1
-Laura Pellerito,1992,"Dallas, Texas",Accountant,23,Eliminated in week 1
-Revian Chang,1994,"Santa Monica, California",Esthetician,23,Eliminated in week 1
-Tahzjuan Hawkins,1992,"Castle Pines, Colorado",Business Development Associate,23,Eliminated in week 1
-Hannah Sluss,1996,"Knoxville, Tennessee",Model,24,Winner
-Madison Prewett,1996,"Auburn, Alabama",Foster Parent Recruiter,24,Runner-Up (quit)
-Victoria Fuller,1993,"Virginia Beach, Virginia",Medical Sales Representative,24,Eliminated in week 9
-Kelsey Weier,1991,"Des Moines, Iowa",Professional Clothier,24,Eliminated in week 8
-Kelley Flanagan,1992,"Chicago, Illinois",Attorney,24,Eliminated in week 7
-Natasha Parker,1988,"New York City, New York",Event Planner,24,Eliminated in week 7
-Mykenna Dorn,1997,"Langely, British Columbia",Fashion Blogger,24,Eliminated in week 6
-Sydney Hightower,1995,"Northport, Alabama",Retail Marketing Manager,24,Eliminated in week 6
-Tammy Ly,1995,"Syracuse, New York",House Flipper,24,Eliminated in week 6
-Victoria Paul,1992,"Alexandria, Louisiana",Nurse,24,Eliminated in week 6
-Lexi Buchanan,1993,"Jacksonville, Florida",Marketing Coordinator,24,Eliminated in week 5
-Shiann Lewis,1992,"Las Vegas, Nevada",Administrative Assistant,24,Eliminated in week 5
-Deandra Kanu,1996,"Bar Harbor, Maine",Home Care Coordinator,24,Eliminated in week 4
-Kiarra Norman,1996,"Kennesaw, Georgia",Nanny,24,Eliminated in week 4
-Savannah Mullins,1992,"Houston, Texas",Realtor,24,Eliminated in week 4
-Alayah Benavidez,1995,"San Antonio, Texas",Orthodontist Assistant,24,Eliminated in week 4
-Alexa Caves,1992,"Springfield, Illinois",Esthetician,24,Eliminated in week 3
-Jasmine Nguyen,1994,"Houston, Texas",Client Relations Manager,24,Eliminated in week 3
-Sarah Coffin,1995,"Knoxville, Tennessee",Medical Radiographer,24,Eliminated in week 3
-Courtney Perry,1992,"Venice, Florida",Cosmetologist,24,Eliminated in week 2
-Lauren Jones,1992,"Glendale, California",Marketing Executive,24,Eliminated in week 2
-Payton Moran,1995,"Wellesley, Massachusetts",Business Development Rep,24,Eliminated in week 2
-Avonlea Elkins,1992,"Fort Worth, Texas",Cattle Rancher,24,Eliminated in week 1
-Eunice Cho,1996,"Chicago, Illinois",Flight Attendant,24,Eliminated in week 1
-Jade Gilliland,1992,"Mesa, Arizona",Flight Attendant,24,Eliminated in week 1
-Jenna Serrano,1996,"New Lenox, Illinois",Nursing Student,24,Eliminated in week 1
-Katrina Badowski,1991,"Chicago, Illinois",Professional NBA Dancer,24,Eliminated in week 1
-Kylie Ramos,1993,"Santa Monica, California",Entertaiment Sales Associate,24,Eliminated in week 1
-Maurissa Gunn,1996,"Laurel, Montana",Patient Care Coordinator,24,Eliminated in week 1
-Megan Hops,1993,"San Francisco, California",Flight Attendant,24,Eliminated in week 1
-Rachael Kirkconnell,1996,"Cumming, Georgia",Graphic Designer,25,Winner
-Michelle Young,1993,"Edina, Minnesota",Teacher,25,Runner-Up
-Bri Springs,1995,"San Francisco, California",Communications Manager,25,Eliminated in week 9
-Serena Pitt,1997,"Markham, Ontario",Publicist,25,Quit in week 8
-Pieper James,1997,"Happy Valley, Oregon",Graduate Student,25,Eliminated in week 7
-Jessenia Cruz,1992,"El Paso, Texas",Social Media Marketer,25,Eliminated in week 7
-Kit Keenan,1999,"New York City, New York",Socialite,25,Quit in week 7
-Abigail Heringer,1995,"Salem, Oregon",Client Financial Manager,25,Eliminated in week 7
-Chelsea Vaughn,1992,"Marietta, Georgia",Runway Model,25,Eliminated in week 6
-Serena Chew,1996,"San Francisco, California",Flight Attendant,25,Eliminated in week 6
-Katie Thurston,1991,"Renton, Washington",Bank Marketing Manager,25,Eliminated in week 6
-Brittany Galvin,1997,"Hinsdale, Illinois",Model,25,Eliminated in week 5
-"Mearg ""Magi"" Tareke",1988,"Washington, D.C.",Pharmacist,25,Eliminated in week 5
-Ryan Claytor,1994,"Mechanicsville, Virginia",Choreographer,25,Eliminated in week 5
-MJ Snyder,1996,"Hudson, Ohio",Hairstylist,25,Eliminated in week 5
-Catalina Morales,1990,"Caguas, Puerto Rico",Former Miss Puerto Rico,25,Eliminated in week 4
-Lauren Maddox,1991,"Miami, Florida",Corporate Attorney,25,Eliminated in week 4
-"Mariela ""Mari"" Pepin",1996,"Severn, Maryland",Marketing Director,25,Eliminated in week 4
-Victoria Larson,1993,"Los Angeles, California",Queen,25,Eliminated in week 4
-Anna Redman,1996,"Owatonna, Minnesota",Copywriter,25,Eliminated in week 4
-Kaili Anderson,1994,"Chicago, Illinois",Hostess,25,Eliminated in week 3
-Khaylah Epps,1992,"Durham, North Carolina",Healthcare Advocate,25,Eliminated in week 3
-Kim Li,1992,"Los Angeles, California",ICU Nurse,25,Eliminated in week 3
-Sarah Trott,1996,"San Diego, California",Broadcast Journalist,25,Quit in week 3
-Alana Milne,1994,"Toronto, Ontario",Photographer,25,Eliminated in week 2
-Illeana Pennetto,1994,"South Salem, New York",Health Food Developer,25,Eliminated in week 2
-Kristin Hopkins,1993,"Virginia Beach, Virginia",Attorney,25,Eliminated in week 2
-Marylynn Sienna,1992,"Huntington Beach, California",Event Coordinator,25,Eliminated in week 2
-Sydney Johnson,1992,"Franklin, Tennessee",Marketing Specialist,25,Eliminated in week 2
-Alicia Holloway,1996,"Morgantown, West Virginia",Professional Ballerina,25,Eliminated in week 1
-Amber Andrews,1990,"Costa Mesa, California",Nursing Student,25,Eliminated in week 1
-Carolyn Vallejo,1990,"Newburyport, Massachusetts",Journalist,25,Eliminated in week 1
-Casandra Suarez,1994,"Lodi, California",Social Worker,25,Eliminated in week 1
-Corrinne Jones,1998,"Pomfret, Connecticut",Marketing Manager,25,Eliminated in week 1
-Emani Curl,1995,"Albuquerque, New Mexico",Realtor,25,Eliminated in week 1
-Kimberly Courneya,1991,"Seattle, Washington",Airline Recruiter,25,Eliminated in week 1
-Saneh Ste Clare,1995,"Denver, Colorado",IT Consultant,25,Eliminated in week 1
-Susie Evans,1993,"Poquoson, Virginia",Wedding Videographer,26,Winner
-Gabby Windey,1991,"Denver, Colorado",ICU Nurse,26,Runner-Up
-Rachel Recchia,1996,"Clermont, Florida",Flight Instructor,26,Runner-Up
-Serene Russell,1995,"Oklahoma City, Oklahoma",Elementary School Teacher,26,Eliminated in week 8
-Teddi Wright,1996,"Redlands, California",Surgical Unit Nurse,26,Eliminated in week 7
-Sarah Hamrick,1998,"Spartanburg, South Carolina",Wealth Management Advisor,26,Eliminated in week 7
-Genevieve Parisi,1995,"Rehoboth, Massachusetts",Bartender,26,Eliminated in week 7
-Eliza Isichei,1996,"Tampa, Florida",Marketing Manager,26,Eliminated in week 6
-Mara Agrait,1989,"Collingswood, New Jersey",Entrepreneur,26,Eliminated in week 6
-Hunter Haag,1992,"Charlotte, North Carolina",Human Resource Specialist,26,Eliminated in week 5
-Marlena Wesh,1991,"Virginia Beach, Virginia",Former Olympian,26,Eliminated in week 5
-Shanae Ankney,1992,"Sycamore, Ohio",Recruiter,26,Eliminated in week 5
-Jill Chin,1995,"Scituate, Rhode Island",Architectural Historian,26,Eliminated in week 4
-Lyndsey Windham,1993,"Orange, Texas",Industrial Sales Representative,26,Eliminated in week 4
-Sierra Jackson,1995,"Oklahoma City, Oklahoma",Yoga Instructor,26,Eliminated in week 4
-Elizabeth Corrigan,1989,"Highlands Ranch, Colorado",Real Estate Advisor,26,Eliminated in week 3
-Kira Mengistu,1989,"Philadelphia, Pennsylvania",Physician,26,Eliminated in week 3
-Melina Nasab,1994,"West Hollywood, California",Personal Trainer,26,Eliminated in week 3
-Ency Abedin,1993,"Burbank, California",Sales Manager,26,Eliminated in week 2
-Kate Gallivan,1989,"Lake Hollywood, California",Real Estate Agent,26,Eliminated in week 2
-Tessa Tookes,1995,"Stamford, Connecticut",HR Specialist,26,Eliminated in week 2
-Cassidy Timbrooks,1995,"Cave Creek, Arizona",Executive Recruiter,26,Eliminated in week 2
-Daria Rose,1997,"Baldwin, New York",Law Student,26,Eliminated in week 1
-Hailey Malles,1995,"Orlando, Florida",Pediatric Nurse,26,Eliminated in week 1
-Ivana Noble,1990,"Snellville, Georgia",Bar Mitzvah Dancer,26,Eliminated in week 1
-Jane Paik,1988,"Los Angeles, California",Social Media Director,26,Eliminated in week 1
-Lindsay Dobbs,1994,"Warner Robins, Georgia",Neonatal nurse,26,Eliminated in week 1
-Rianna Hockaday,1994,"Mount Pleasant, Texas",Registered Nurse,26,Eliminated in week 1
-Samantha Jeffries,1995,"Dayton, Ohio",Occupational Therapist,26,Eliminated in week 1
-Claire Heilig,1992,"Virginia Beach, Virginia",Spray Tanner,26,Eliminated in week 1
-"Kaitlyn ""Kaity"" Biggar",1994,"Kingston, Ontario",Travel Nurse,27,Winner
-"Gabriella ""Gabi"" Elnicki",1997,"Pittsford, Vermont",Senior Account Executive,27,Runner-Up
-Ariel Frenkel,1994,"Manhattan, New York",Marketing Executive,27,Eliminated in week 9
-Charity Lawson,1995,"Columbus, Georgia",Child and Family Therapist,27,Eliminated in week 8
-Katherine Izzo,1996,"Tampa, Florida",Registered Nurse,27,Eliminated in week 7
-Brooklyn Willie,1997,"Mineola, Texas",Rodeo Racer,27,Eliminated in week 7
-Greer Blitzer,1998,"Bellaire, Texas",Medical Sales Representative,27,Eliminated in week 7
-"Alyssa ""Aly"" Jacobs",1996,"Smyrna, Georgia",Healthcare Strategist,27,Eliminated in week 6
-Jess Girod,1999,"Winter Springs, Florida",E-Commerce Coordinator,27,Eliminated in week 6
-Kylee Russell,1997,"Charlotte, North Carolina",Postpartum Nurse,27,Eliminated in week 5
-Mercedes Northup,1998,"Bloomfield, Iowa",Nonprofit Case Manager,27,Eliminated in week 5
-Davia Bunch,1997,"Roebuck, South Carolina",Marketing Manager,27,Eliminated in week 4
-Genevie Mayo,1996,"Joppa, Maryland",Neonatal Nurse,27,Eliminated in week 4
-Anastasia Keramidas,1992,"Baltimore, Maryland",Content Marketing Manager,27,Eliminated in week 4
-Christina Mandrell,1995,"Hendersonville, Tennessee",Content Creator,27,Eliminated in week 3
-Brianna Thorbourne,1998,Entrepreneur,"Jersey City, New Jersey",27,Quit in week 3
-Bailey Brown,1995,"Brentwood, Tennessee",Executive Recruiter,27,Eliminated in week 3
-"Catherine ""Cat"" Wong",1996,"Long Island, New York",Professional Dancer,27,Eliminated in week 2
-Kimberly Gutierrez,1992,"Stroudsburg, Pennsylvania",Hospitality Manager,27,Eliminated in week 2
-Victoria Jameson,1992,"Keller, Texas",Professional Makeup Artist,27,Eliminated in week 2
-Becca Serrano,1996,"Burbank, California",Nursing Student,27,Eliminated in week 1
-Cara Ammon,1995,"McCandless, Pennsylvania",Corporate Recruiter,27,Eliminated in week 1
-Holland Parsons,1998,"Boca Raton, Florida",Insurance Marketer,27,Eliminated in week 1
-Lekha Ravi,1993,"Miami, Florida",Financial Advisor,27,Eliminated in week 1
-Olivia Lewis,1998,"Churchville, New York",Patient Care Technician,27,Eliminated in week 1
-Olivia Miller,1996,"Delphos, Ohio",Stylist,27,Eliminated in week 1
-Sonia Sharma,1993,"Jericho, New York",Project Manager,27,Eliminated in week 1
-Vanessa Dinh,1999,"Farmington Hills, Michigan",Restaurant Marketer,27,Eliminated in week 1
-Viktoria Eichner,1993,"Chicago, Illinois",Nanny,27,Eliminated in week 1
-Madison Johnson,1995,"Fargo, North Dakota",Business Owner,27,Eliminated in week 1
-Kelsey Anderson,1998,"Leesville, Louisiana",Junior Project Manager,28,Winner
-Daisy Kent,1998,"Becker, Minnesota",Account Executive,28,Runner-Up (Quit)
-Rachel Nance,1997,"Honolulu, Hawaii",ICU Nurse,28,Eliminated in week 9
-Maria Georgas,1994,"Kleinburg, Ontario",Executive Assistant,28,Eliminated in week 8
-Jenn Tran,1997,"Hillsdale, New Jersey",Physician Assistant Student,28,Eliminated in week 7
-Kelsey Toussant,1992,"Inglewood, California",Actress,28,Eliminated in week 7
-Katelyn DeBacker,1997,"Santa Fe, New Mexico",Radiochemist,28,Eliminated in week 6
-Lea Cayanan,2000,"Waipahu, Hawaii",Account Manager,28,Eliminated in week 6
-Lexi Young,1993,"Pataskala, Ohio",Digital Strategist,28,Quit in week 6
-Jess Edwards,1999,"Erwin, Tennessee",Executive Assistant,28,Eliminated in week 6
-Autumn Waggoner,1997,"De Soto, Missouri",Account Executive,28,Eliminated in week 5
-Madina Alam,1992,"Johnstown, New York",Mental Health Therapist,28,Eliminated in week 5
-Allison Hollinger,1997,"Dover, Delaware",Realtor,28,Eliminated in week 4
-Edwina Dorbor,1998,"Maple Grove, Minnesota",Entrepreneur,28,Eliminated in week 4
-Sydney Gordon,1995,"Newport, Rhode Island",Vintage Store Owner,28,Eliminated in week 4
-Chrissa Perez,1996,"Abbotsford, British Columbia",Marketing Director,28,Eliminated in week 3
-Evalin Clark,1994,"San Antonio, Texas",Nanny,28,Eliminated in week 3
-Starr Skyler,1997,"Delray Beach, Florida",Mental Health Counselor,28,Eliminated in week 3
-Erika Cardenas,1998,"North Bergen, New Jersey",Leasing Agent,28,Eliminated in week 2
-Marlena Haddad,1996,"Waterbury, Connecticut",Finance Writer,28,Eliminated in week 2
-Taylor Wiens,1999,"Olathe, Kansas",Recruiter,28,Eliminated in week 2
-Lauren Hollinger,1995,"Dover, Delaware",Registered Nurse,28,Quit in week 2
-Chandler Dewgard,1999,"Brooklyn, New York",Graphic Designer,28,Eliminated in week 1
-Kayla Rodgers,1995,"Hamilton, Ohio",Guidance Counselor,28,Eliminated in week 1
-Kyra Brusch,1997,"Miami, Florida",Paralegal,28,Eliminated in week 1
-Lanie Latsios,1996,"Glen Mills, Pennsylvania",Realtor,28,Eliminated in week 1
-Nat Crepeau,1997,"Sudbury, Ontario",Nursing Professor,28,Eliminated in week 1
-Sam Hale,1992,"Melville, New York",CPA,28,Eliminated in week 1
-Samantha Washington,1998,"Lincoln, Nebraska",Miami Dolphins Cheerleader,28,Eliminated in week 1
-Sandra Rabadi,1997,"Strongsville, Ohio",Cybersecurity Consultant,28,Eliminated in week 1
-Talyah Jackson,1999,"Huntington Beach, California",Esthetician,28,Eliminated in week 1
-Zoe Antona,1999,"Roswell, Georgia",Artist,28,Eliminated in week 1
-Alexe Godin,1997,"Néguac, New Brunswick",Pediatric Speech Therapist,29,NONE
-Alli Jo Hinkes,1993,"Freehold, New Jersey",Boxing Trainer,29,NONE
-Allyshia Gupta,1994,"Wesley Chapel, Florida",Interior Designer,29,NONE
-Bailey Brown,1997,"Atlanta, Georgia",Social Media Manager,29,NONE
-Beverly Ortega,1994,"Howard Beach, New York",Insurance Salesperson,29,NONE
-Carolina Quixano,1995,"Guaynabo, Puerto Rico",Public Relations Producer,29,NONE
-Chloie Costello,1996,"Mission Hills, Kansas",Model,29,NONE
-Christina Smith,1997,"Kindred, North Dakota",Marketing Director,29,NONE
-Dina Lupancu,1992,"Willowbrook, Illinois",Attorney,29,NONE
-Ella Del Rosario,1999,"Los Angeles, California",Luxury Travel Host,29,NONE
-J’Nae Squires-Horton,1996,"Colorado Springs, Colorado",Account Coordinator,29,NONE
-Juliana Pasquarosa,1996,"Newton, Massachusetts",Client Service Associate,29,NONE
-Kelsey Curtis,1998,"Clarksville, Maryland",Interior Designer,29,NONE
-Kyleigh Henrich,1998,"Glen Rose, Texas",Retail Manager,29,NONE
-Litia Garr,1993,"Soda Springs, Idaho",Venture Capitalist,29,NONE
-Natalie Phillips,1999,"Seattle, Washington",Ph.D. Student,29,NONE
-Neicey Baxter,1992,"Blythewood, South Carolina",Pediatrician,29,NONE
-Parisa Shifteh,1995,"Birmingham, Michigan",Pediatric Behavior Analyst,29,NONE
-Radhika Gupta,1996,"Floral Park, New York",Attorney,29,NONE
-Rebekah Garrett,1993,"Dallas, Texas",ICU Nurse,29,NONE
-Rose Sombke,1997,"Rockford, Illinois",Registered Nurse,29,NONE
-Sarafiena Watkins,1995,"Cos Cob, Connecticut",Associate Media Director,29,NONE
-Savannah Quinn,27,"Charlottesville, Virginia",Wedding Planner,29,NONE
-Vicky Nyamuswa,1996,"Henderson, Nevada",Nightclub Server,29,NONE
-Zoe McGrady,1997,"Chester, Virginia",Tech Engineer/Model,29,NONE
+",2,1,28.0,6.0
+Lauren Bushnell,"West Linn, Oregon",Flight Attendant,20,11,26.0,6.0
+"Joelle ""JoJo"" Fletcher","Dallas, Texas",Real Estate Developer,20,10,26.0,6.0
+Caila Quinn,"Hudson, Ohio",Software Sales Representative,20,9,25.0,5.0
+Amanda Stanton,"Laguna Beach, California",Esthetician,20,8,26.0,6.0
+Emily Ferguson,"Las Vegas, Nevada",Waitress/Twin,20,7,24.0,4.0
+Lauren Himle,"Dexter, Michigan",Kindergarten Teacher,20,6,26.0,6.0
+Olivia Caridi,"Austin, Texas",Former News Anchor,20,6,24.0,4.0
+Leah Block,"Aurora, Colorado",Event Planner,20,6,26.0,6.0
+Jennifer Saviano,"Davie, Florida",Small Business Owner,20,5,27.0,7.0
+Jubilee Sharpe,"Fort Lauderdale, Florida",War Veteran,20,5,25.0,5.0
+Rachel Tchen,"Little Rock, Arkansas",Unemployed,20,4,24.0,4.0
+Haley Ferguson,"Las Vegas, Nevada",Waitress/Twin,20,4,24.0,4.0
+Jami Letain,"St. Albert, Alberta",Bartender,20,3,24.0,4.0
+Shushanna Mkrtychyan,"Salt Lake City, Utah",Property manager,20,3,28.0,8.0
+Lace Morris,"Denver, Colorado",Real Estate Agent,20,3,27.0,7.0
+"Amanda ""Mandi"" Kremer","Portland, Oregon",Dentist,20,2,30.0,10.0
+"Jacqueline ""Jackie"" Dion","Newport Beach, California",Gerontologist,20,2,24.0,4.0
+Samantha Passmore,"New Smyrna Beach, Florida",Attorney,20,2,28.0,8.0
+"Lauren ""LB"" Barr","Stillwater, Oklahoma",Fashion Buyer,20,2,24.0,4.0
+Breanne Rice,"Seattle, Washington",Nutritional Therapist,20,1,31.0,11.0
+Izzy Goodkind,"Branford, Connecticut",Graphic Designer,20,1,26.0,6.0
+Jessica Moser,"Boca Raton, Florida",Accountant,20,1,24.0,4.0
+Laura Esselman,"Louisville, Kentucky",Account Executive,20,1,25.0,5.0
+Lauren Russell,"Houston, Texas",Math Teacher,20,1,27.0,7.0
+Maegan Miller,"Visalia, California",Cowgirl,20,1,31.0,11.0
+Tiara Soleim,"Redmond, Washington",Chicken Enthusiast,20,1,28.0,8.0
+Vanessa Grimaldi,"Montreal, Quebec",Special Education Teacher,21,11,30.0,0.0
+Raven Gates,"Hoxie, Arkansas",Fashion Boutique Owner,21,10,26.0,4.0
+Rachel Lindsay,"Dallas, Texas",Attorney,21,9,32.0,2.0
+Corinne Olympios,"Miami, Florida",Business Owner,21,8,26.0,4.0
+Kristina Schulman,"Lexington, Kentucky",Dental Hygienist,21,7,26.0,4.0
+Danielle Maltby,"Germantown, Wisconsin",Neonatal Nurse,21,7,32.0,2.0
+Danielle Lombard,"Los Angeles, California",Small Business Owner,21,6,29.0,1.0
+Whitney Fransway,"Chanhassen, Minnesota",Pilates Instructor,21,6,26.0,4.0
+Jasmine Goode,"Maplewood, New Jersey",Pro Basketball Dancer,21,6,30.0,0.0
+Alexis Waters,"Secaucus, New Jersey",Aspiring Dolphin Trainer,21,5,24.0,6.0
+Jaimi King,"New Orleans, Louisiana",Chef,21,5,29.0,1.0
+Josephine Tutman,"Santa Cruz, California",Unemployed Nurse,21,5,25.0,5.0
+Taylor Nolan,"Seattle, Washington",Mental Health Counselor,21,5,24.0,6.0
+Astrid Loch,"Tampa, Florida",Plastic Surgery Office Manager,21,4,27.0,3.0
+Sarah Vendal,"Newport Beach, California",Grade School Teacher,21,4,27.0,3.0
+Brittany Farrar,"Santa Monica, California",Travel Nurse,21,3,27.0,3.0
+Christen Whitney,"Tulsa, Oklahoma",Wedding Videographer,21,3,26.0,4.0
+Dominique Alexis,"Los Angeles, California",Restaurant Server,21,3,27.0,3.0
+Elizabeth Whitelaw,"New Trier, Illinois",Marketing Manager,21,2,26.0,4.0
+Hailey Merkt,"Vancouver, British Columbia",Photographer,21,2,25.0,5.0
+Lacey Mark,"Montville, New Jersey",Digital Marketing Manager,21,2,27.0,3.0
+"Elizabeth ""Liz"" Sandoz","Scottsbluff, Nebraska",Doula,21,2,30.0,0.0
+Angela Amezcua,"Greenville, South Carolina",Model,21,1,28.0,2.0
+Briana Guertler,"Salt Lake City, Utah",Surgical Unit Nurse,21,1,30.0,0.0
+Ida Marie DeLosSantos,"Harlingen, Texas",Sales Manager,21,1,24.0,6.0
+Jasmine Brown,"Tacoma, Washington",Flight Attendant,21,1,26.0,4.0
+Lauren Hussey,"Naples, Florida",Law School Graduate,21,1,31.0,1.0
+Olivia Burnette,"Anchorage, Alaska",Apparel Sales Representative,21,1,26.0,4.0
+Michelle Ramkissoon,"Los Angeles, California",Food Truck Owner,21,1,24.0,6.0
+Susannah Milan,"San Diego, California",Account Manager,21,1,27.0,3.0
+Becca Kufrin,"Prior Lake, Minnesota",Publicist,22,11,28.0,2.0
+Lauren Burnham,"Virginia Beach, Virginia",Technology Salesperson,22,10,27.0,3.0
+Kendall Long,"Santa Clarita, California",Creative Director,22,9,27.0,3.0
+Tia Booth,"Weiner, Arkansas",Physical Therapist,22,8,27.0,3.0
+Bekah Martinez,"Clovis, California",Nanny,22,7,23.0,7.0
+Seinne Fleming,"Long Beach, California",Commercial Real Estate Manager,22,7,28.0,2.0
+Jacqueline Trumbull,"Morgantown, West Virginia",Real Estate Coordinator,22,7,27.0,3.0
+Chelsea Roy,"South Portland, Maine",Real Estate Executive Assistant,22,6,30.0,0.0
+Jenna Cooper,"Upland, Indiana",Social Media Manager,22,6,29.0,1.0
+Krystal Nielson,"Missoula, Montana",Fitness Coach,22,6,31.0,1.0
+Ashley Luebke,"West Palm Beach, Florida",Real Estate Agent,22,5,26.0,4.0
+Maquel Cooper,"American Fork, Utah",Photographer,22,5,24.0,6.0
+Marikh Mathias,"Salt Lake City, Utah",Restaurant Owner,22,5,28.0,2.0
+Brittany Taylor,"Belton, South Carolina",Tech Recruiter,22,4,31.0,1.0
+Caroline Lunny,"Holliston, Massachusetts",Realtor,22,4,28.0,2.0
+Bibiana Julian,"Miami, Florida",Executive Assistant,22,3,31.0,1.0
+Annaliese Puccini,"San Mateo, California",Event Designer,22,3,34.0,4.0
+Lauren Schleyer,"Dallas, Texas",Social Media Manager,22,3,32.0,2.0
+"Jennifer ""Jenny"" Delaney","Northbrook, Illinois",Graphic Designer,22,2,26.0,4.0
+Lauren Griffin,"Indianapolis, Indiana",Executive Recruiter,22,2,27.0,3.0
+Valerie Biles,"Nashville, Tennessee",Server,22,2,25.0,5.0
+"Alison ""Ali"" Harrington","Lawton, Oklahoma",Personal Stylist,22,1,28.0,2.0
+Amber Wilkerson,"Denver, Colorado",Business Owner,22,1,30.0,0.0
+"Brianna ""Bri"" Amaranthus","Grants Pass, Oregon",Sports Reporter,22,1,26.0,4.0
+Brittane Johnson,"San Diego, California",Marketing Manager,22,1,28.0,2.0
+Jessica Carroll,"Calgary, Alberta",Television Host,22,1,28.0,2.0
+Lauren Jarreau,"New Roads, Louisiana",Recent Master's Graduate,22,1,34.0,4.0
+Nysha Norris,"Anderson, South Carolina",Orthopedic Nurse,22,1,31.0,1.0
+Olivia Goethals,"Geneseo, Illinois",Marketing Associate,22,1,25.0,5.0
+Cassie Randolph,"Huntington Beach, California",Speech Pathologist,23,11,24.0,4.0
+Hannah Godwin,"Birmingham, Alabama",Content Creator,23,9,24.0,4.0
+Tayshia Adams,"Santa Ana, California",Phlebotomist,23,9,29.0,9.0
+Caelynn Miller-Keyes,"Fredericksburg, Virginia",Miss North Carolina USA 2018,23,8,24.0,4.0
+Kirpa Sudick,"Whittier, California",Dental Hygienist,23,7,27.0,7.0
+Heather Martin,"Carlsbad, California",Assistant Program Manager,23,7,24.0,4.0
+Hannah Brown,"Tuscaloosa, Alabama",Miss Alabama USA 2018,23,7,25.0,5.0
+Katie Morton,"Oviedo, Florida",Medical Sales Representative,23,6,27.0,7.0
+Demi Burnett,"Red Oak, Texas",Interior Designer,23,6,24.0,4.0
+Sydney Lotuaco,"Virginia Beach, Virginia",NBA Dancer,23,6,28.0,8.0
+Nicole Lopez-Alvar,"Miami, Florida",Social Media Coordinator,23,5,27.0,7.0
+Onyeka Ehie,"Dallas, Texas",IT Risk Consultant,23,5,25.0,5.0
+Elyse Dehlbom,"Soldotna, Alaska",Makeup Artist,23,5,32.0,12.0
+Courtney Curtis,"McDonough, Georgia",Caterer,23,4,24.0,4.0
+Tracy Shapoff,"Los Angeles, California",Wardrobe Stylist,23,4,33.0,13.0
+"Brianna ""Bri"" Barnes","Los Angeles, California",Model,23,3,25.0,5.0
+Catherine Agro,"Fort Lauderdale, Florida",DJ,23,3,28.0,8.0
+Nina Bartula,"Raleigh, North Carolina",Sales Account Manager,23,3,30.0,10.0
+Caitlin Clemmens,"Toronto, Ontario",Realtor,23,3,26.0,6.0
+Alex Blumberg,"Vancouver, British Columbia",Dog Rescuer,23,2,30.0,10.0
+Angelique Sherman,"Hamilton, New Jersey",Marketing Sales Assistant,23,2,29.0,9.0
+Annie Reardon,"Mequon, Wisconsin",Financial Associate,23,2,24.0,4.0
+Erika McNutt,"Encinitas, California",Recruiter,23,2,26.0,6.0
+Alex Dillon,"Boston, Massachusetts",IT Account Manager,23,1,25.0,5.0
+Devin Gooden,"Medford, Oregon",Broadcast Journalist,23,1,25.0,5.0
+Erin Landry,"Plano, Texas",Home Improvement Employee,23,1,29.0,9.0
+Jane Averbukh,"West Hollywood, California",Social Worker,23,1,27.0,7.0
+Laura Pellerito,"Dallas, Texas",Accountant,23,1,27.0,7.0
+Revian Chang,"Santa Monica, California",Esthetician,23,1,25.0,5.0
+Tahzjuan Hawkins,"Castle Pines, Colorado",Business Development Associate,23,1,27.0,7.0
+Hannah Sluss,"Knoxville, Tennessee",Model,24,11,24.0,2.0
+Madison Prewett,"Auburn, Alabama",Foster Parent Recruiter,24,10,24.0,2.0
+Victoria Fuller,"Virginia Beach, Virginia",Medical Sales Representative,24,9,27.0,5.0
+Kelsey Weier,"Des Moines, Iowa",Professional Clothier,24,8,29.0,7.0
+Kelley Flanagan,"Chicago, Illinois",Attorney,24,7,28.0,6.0
+Natasha Parker,"New York City, New York",Event Planner,24,7,32.0,10.0
+Mykenna Dorn,"Langely, British Columbia",Fashion Blogger,24,6,23.0,1.0
+Sydney Hightower,"Northport, Alabama",Retail Marketing Manager,24,6,25.0,3.0
+Tammy Ly,"Syracuse, New York",House Flipper,24,6,25.0,3.0
+Victoria Paul,"Alexandria, Louisiana",Nurse,24,6,28.0,6.0
+Lexi Buchanan,"Jacksonville, Florida",Marketing Coordinator,24,5,27.0,5.0
+Shiann Lewis,"Las Vegas, Nevada",Administrative Assistant,24,5,28.0,6.0
+Deandra Kanu,"Bar Harbor, Maine",Home Care Coordinator,24,4,24.0,2.0
+Kiarra Norman,"Kennesaw, Georgia",Nanny,24,4,24.0,2.0
+Savannah Mullins,"Houston, Texas",Realtor,24,4,28.0,6.0
+Alayah Benavidez,"San Antonio, Texas",Orthodontist Assistant,24,4,25.0,3.0
+Alexa Caves,"Springfield, Illinois",Esthetician,24,3,28.0,6.0
+Jasmine Nguyen,"Houston, Texas",Client Relations Manager,24,3,26.0,4.0
+Sarah Coffin,"Knoxville, Tennessee",Medical Radiographer,24,3,25.0,3.0
+Courtney Perry,"Venice, Florida",Cosmetologist,24,2,28.0,6.0
+Lauren Jones,"Glendale, California",Marketing Executive,24,2,28.0,6.0
+Payton Moran,"Wellesley, Massachusetts",Business Development Rep,24,2,25.0,3.0
+Avonlea Elkins,"Fort Worth, Texas",Cattle Rancher,24,1,28.0,6.0
+Eunice Cho,"Chicago, Illinois",Flight Attendant,24,1,24.0,2.0
+Jade Gilliland,"Mesa, Arizona",Flight Attendant,24,1,28.0,6.0
+Jenna Serrano,"New Lenox, Illinois",Nursing Student,24,1,24.0,2.0
+Katrina Badowski,"Chicago, Illinois",Professional NBA Dancer,24,1,29.0,7.0
+Kylie Ramos,"Santa Monica, California",Entertaiment Sales Associate,24,1,27.0,5.0
+Maurissa Gunn,"Laurel, Montana",Patient Care Coordinator,24,1,24.0,2.0
+Megan Hops,"San Francisco, California",Flight Attendant,24,1,27.0,5.0
+Rachael Kirkconnell,"Cumming, Georgia",Graphic Designer,25,11,25.0,2.0
+Michelle Young,"Edina, Minnesota",Teacher,25,10,28.0,5.0
+Bri Springs,"San Francisco, California",Communications Manager,25,9,26.0,3.0
+Serena Pitt,"Markham, Ontario",Publicist,25,8,24.0,1.0
+Pieper James,"Happy Valley, Oregon",Graduate Student,25,7,24.0,1.0
+Jessenia Cruz,"El Paso, Texas",Social Media Marketer,25,7,29.0,6.0
+Kit Keenan,"New York City, New York",Socialite,25,7,22.0,1.0
+Abigail Heringer,"Salem, Oregon",Client Financial Manager,25,7,26.0,3.0
+Chelsea Vaughn,"Marietta, Georgia",Runway Model,25,6,29.0,6.0
+Serena Chew,"San Francisco, California",Flight Attendant,25,6,25.0,2.0
+Katie Thurston,"Renton, Washington",Bank Marketing Manager,25,6,30.0,7.0
+Brittany Galvin,"Hinsdale, Illinois",Model,25,5,24.0,1.0
+"Mearg ""Magi"" Tareke","Washington, D.C.",Pharmacist,25,5,33.0,10.0
+Ryan Claytor,"Mechanicsville, Virginia",Choreographer,25,5,27.0,4.0
+MJ Snyder,"Hudson, Ohio",Hairstylist,25,5,25.0,2.0
+Catalina Morales,"Caguas, Puerto Rico",Former Miss Puerto Rico,25,4,31.0,8.0
+Lauren Maddox,"Miami, Florida",Corporate Attorney,25,4,30.0,7.0
+"Mariela ""Mari"" Pepin","Severn, Maryland",Marketing Director,25,4,25.0,2.0
+Victoria Larson,"Los Angeles, California",Queen,25,4,28.0,5.0
+Anna Redman,"Owatonna, Minnesota",Copywriter,25,4,25.0,2.0
+Kaili Anderson,"Chicago, Illinois",Hostess,25,3,27.0,4.0
+Khaylah Epps,"Durham, North Carolina",Healthcare Advocate,25,3,29.0,6.0
+Kim Li,"Los Angeles, California",ICU Nurse,25,3,29.0,6.0
+Sarah Trott,"San Diego, California",Broadcast Journalist,25,3,25.0,2.0
+Alana Milne,"Toronto, Ontario",Photographer,25,2,27.0,4.0
+Illeana Pennetto,"South Salem, New York",Health Food Developer,25,2,27.0,4.0
+Kristin Hopkins,"Virginia Beach, Virginia",Attorney,25,2,28.0,5.0
+Marylynn Sienna,"Huntington Beach, California",Event Coordinator,25,2,29.0,6.0
+Sydney Johnson,"Franklin, Tennessee",Marketing Specialist,25,2,29.0,6.0
+Alicia Holloway,"Morgantown, West Virginia",Professional Ballerina,25,1,25.0,2.0
+Amber Andrews,"Costa Mesa, California",Nursing Student,25,1,31.0,8.0
+Carolyn Vallejo,"Newburyport, Massachusetts",Journalist,25,1,31.0,8.0
+Casandra Suarez,"Lodi, California",Social Worker,25,1,27.0,4.0
+Corrinne Jones,"Pomfret, Connecticut",Marketing Manager,25,1,23.0,0.0
+Emani Curl,"Albuquerque, New Mexico",Realtor,25,1,26.0,3.0
+Kimberly Courneya,"Seattle, Washington",Airline Recruiter,25,1,30.0,7.0
+Saneh Ste Clare,"Denver, Colorado",IT Consultant,25,1,26.0,3.0
+Susie Evans,"Poquoson, Virginia",Wedding Videographer,26,10,29.0,7.0
+Gabby Windey,"Denver, Colorado",ICU Nurse,26,9,31.0,9.0
+Rachel Recchia,"Clermont, Florida",Flight Instructor,26,9,26.0,4.0
+Serene Russell,"Oklahoma City, Oklahoma",Elementary School Teacher,26,8,27.0,5.0
+Teddi Wright,"Redlands, California",Surgical Unit Nurse,26,7,26.0,4.0
+Sarah Hamrick,"Spartanburg, South Carolina",Wealth Management Advisor,26,7,24.0,2.0
+Genevieve Parisi,"Rehoboth, Massachusetts",Bartender,26,7,27.0,5.0
+Eliza Isichei,"Tampa, Florida",Marketing Manager,26,6,26.0,4.0
+Mara Agrait,"Collingswood, New Jersey",Entrepreneur,26,6,33.0,11.0
+Hunter Haag,"Charlotte, North Carolina",Human Resource Specialist,26,5,30.0,8.0
+Marlena Wesh,"Virginia Beach, Virginia",Former Olympian,26,5,31.0,9.0
+Shanae Ankney,"Sycamore, Ohio",Recruiter,26,5,30.0,8.0
+Jill Chin,"Scituate, Rhode Island",Architectural Historian,26,4,27.0,5.0
+Lyndsey Windham,"Orange, Texas",Industrial Sales Representative,26,4,29.0,7.0
+Sierra Jackson,"Oklahoma City, Oklahoma",Yoga Instructor,26,4,27.0,5.0
+Elizabeth Corrigan,"Highlands Ranch, Colorado",Real Estate Advisor,26,3,33.0,11.0
+Kira Mengistu,"Philadelphia, Pennsylvania",Physician,26,3,33.0,11.0
+Melina Nasab,"West Hollywood, California",Personal Trainer,26,3,28.0,6.0
+Ency Abedin,"Burbank, California",Sales Manager,26,2,29.0,7.0
+Kate Gallivan,"Lake Hollywood, California",Real Estate Agent,26,2,33.0,11.0
+Tessa Tookes,"Stamford, Connecticut",HR Specialist,26,2,27.0,5.0
+Cassidy Timbrooks,"Cave Creek, Arizona",Executive Recruiter,26,2,27.0,5.0
+Daria Rose,"Baldwin, New York",Law Student,26,1,25.0,3.0
+Hailey Malles,"Orlando, Florida",Pediatric Nurse,26,1,27.0,5.0
+Ivana Noble,"Snellville, Georgia",Bar Mitzvah Dancer,26,1,32.0,10.0
+Jane Paik,"Los Angeles, California",Social Media Director,26,1,34.0,12.0
+Lindsay Dobbs,"Warner Robins, Georgia",Neonatal nurse,26,1,28.0,6.0
+Rianna Hockaday,"Mount Pleasant, Texas",Registered Nurse,26,1,28.0,6.0
+Samantha Jeffries,"Dayton, Ohio",Occupational Therapist,26,1,27.0,5.0
+Claire Heilig,"Virginia Beach, Virginia",Spray Tanner,26,1,30.0,8.0
+"Kaitlyn ""Kaity"" Biggar","Kingston, Ontario",Travel Nurse,27,11,29.0,9.0
+"Gabriella ""Gabi"" Elnicki","Pittsford, Vermont",Senior Account Executive,27,10,26.0,6.0
+Ariel Frenkel,"Manhattan, New York",Marketing Executive,27,9,29.0,9.0
+Charity Lawson,"Columbus, Georgia",Child and Family Therapist,27,8,28.0,8.0
+Katherine Izzo,"Tampa, Florida",Registered Nurse,27,7,27.0,7.0
+Brooklyn Willie,"Mineola, Texas",Rodeo Racer,27,7,26.0,6.0
+Greer Blitzer,"Bellaire, Texas",Medical Sales Representative,27,7,25.0,5.0
+"Alyssa ""Aly"" Jacobs","Smyrna, Georgia",Healthcare Strategist,27,6,27.0,7.0
+Jess Girod,"Winter Springs, Florida",E-Commerce Coordinator,27,6,24.0,4.0
+Kylee Russell,"Charlotte, North Carolina",Postpartum Nurse,27,5,26.0,6.0
+Mercedes Northup,"Bloomfield, Iowa",Nonprofit Case Manager,27,5,25.0,5.0
+Davia Bunch,"Roebuck, South Carolina",Marketing Manager,27,4,26.0,6.0
+Genevie Mayo,"Joppa, Maryland",Neonatal Nurse,27,4,27.0,7.0
+Anastasia Keramidas,"Baltimore, Maryland",Content Marketing Manager,27,4,31.0,11.0
+Christina Mandrell,"Hendersonville, Tennessee",Content Creator,27,3,28.0,8.0
+Brianna Thorbourne,Entrepreneur,"Jersey City, New Jersey",27,3,25.0,5.0
+Bailey Brown,"Brentwood, Tennessee",Executive Recruiter,27,3,28.0,8.0
+"Catherine ""Cat"" Wong","Long Island, New York",Professional Dancer,27,2,27.0,7.0
+Kimberly Gutierrez,"Stroudsburg, Pennsylvania",Hospitality Manager,27,2,31.0,11.0
+Victoria Jameson,"Keller, Texas",Professional Makeup Artist,27,2,31.0,11.0
+Becca Serrano,"Burbank, California",Nursing Student,27,1,27.0,7.0
+Cara Ammon,"McCandless, Pennsylvania",Corporate Recruiter,27,1,28.0,8.0
+Holland Parsons,"Boca Raton, Florida",Insurance Marketer,27,1,25.0,5.0
+Lekha Ravi,"Miami, Florida",Financial Advisor,27,1,30.0,10.0
+Olivia Lewis,"Churchville, New York",Patient Care Technician,27,1,25.0,5.0
+Olivia Miller,"Delphos, Ohio",Stylist,27,1,27.0,7.0
+Sonia Sharma,"Jericho, New York",Project Manager,27,1,30.0,10.0
+Vanessa Dinh,"Farmington Hills, Michigan",Restaurant Marketer,27,1,24.0,4.0
+Viktoria Eichner,"Chicago, Illinois",Nanny,27,1,30.0,10.0
+Madison Johnson,"Fargo, North Dakota",Business Owner,27,1,28.0,8.0
+Kelsey Anderson,"Leesville, Louisiana",Junior Project Manager,28,11,26.0,4.0
+Daisy Kent,"Becker, Minnesota",Account Executive,28,10,26.0,4.0
+Rachel Nance,"Honolulu, Hawaii",ICU Nurse,28,9,27.0,5.0
+Maria Georgas,"Kleinburg, Ontario",Executive Assistant,28,8,30.0,8.0
+Jenn Tran,"Hillsdale, New Jersey",Physician Assistant Student,28,7,27.0,5.0
+Kelsey Toussant,"Inglewood, California",Actress,28,7,32.0,10.0
+Katelyn DeBacker,"Santa Fe, New Mexico",Radiochemist,28,6,27.0,5.0
+Lea Cayanan,"Waipahu, Hawaii",Account Manager,28,6,24.0,2.0
+Lexi Young,"Pataskala, Ohio",Digital Strategist,28,6,31.0,9.0
+Jess Edwards,"Erwin, Tennessee",Executive Assistant,28,6,25.0,3.0
+Autumn Waggoner,"De Soto, Missouri",Account Executive,28,5,27.0,5.0
+Madina Alam,"Johnstown, New York",Mental Health Therapist,28,5,32.0,10.0
+Allison Hollinger,"Dover, Delaware",Realtor,28,4,27.0,5.0
+Edwina Dorbor,"Maple Grove, Minnesota",Entrepreneur,28,4,26.0,4.0
+Sydney Gordon,"Newport, Rhode Island",Vintage Store Owner,28,4,29.0,7.0
+Chrissa Perez,"Abbotsford, British Columbia",Marketing Director,28,3,28.0,6.0
+Evalin Clark,"San Antonio, Texas",Nanny,28,3,30.0,8.0
+Starr Skyler,"Delray Beach, Florida",Mental Health Counselor,28,3,27.0,5.0
+Erika Cardenas,"North Bergen, New Jersey",Leasing Agent,28,2,26.0,4.0
+Marlena Haddad,"Waterbury, Connecticut",Finance Writer,28,2,28.0,6.0
+Taylor Wiens,"Olathe, Kansas",Recruiter,28,2,25.0,3.0
+Lauren Hollinger,"Dover, Delaware",Registered Nurse,28,2,29.0,7.0
+Chandler Dewgard,"Brooklyn, New York",Graphic Designer,28,1,25.0,3.0
+Kayla Rodgers,"Hamilton, Ohio",Guidance Counselor,28,1,29.0,7.0
+Kyra Brusch,"Miami, Florida",Paralegal,28,1,27.0,5.0
+Lanie Latsios,"Glen Mills, Pennsylvania",Realtor,28,1,28.0,6.0
+Nat Crepeau,"Sudbury, Ontario",Nursing Professor,28,1,27.0,5.0
+Sam Hale,"Melville, New York",CPA,28,1,32.0,10.0
+Samantha Washington,"Lincoln, Nebraska",Miami Dolphins Cheerleader,28,1,26.0,4.0
+Sandra Rabadi,"Strongsville, Ohio",Cybersecurity Consultant,28,1,27.0,5.0
+Talyah Jackson,"Huntington Beach, California",Esthetician,28,1,25.0,3.0
+Zoe Antona,"Roswell, Georgia",Artist,28,1,25.0,3.0
+Alexe Godin,"Néguac, New Brunswick",Pediatric Speech Therapist,29,NONE,28.0,3.0
+Alli Jo Hinkes,"Freehold, New Jersey",Boxing Trainer,29,NONE,32.0,7.0
+Allyshia Gupta,"Wesley Chapel, Florida",Interior Designer,29,NONE,31.0,6.0
+Beverly Ortega,"Howard Beach, New York",Insurance Salesperson,29,NONE,31.0,6.0
+Carolina Quixano,"Guaynabo, Puerto Rico",Public Relations Producer,29,NONE,30.0,5.0
+Chloie Costello,"Mission Hills, Kansas",Model,29,NONE,29.0,4.0
+Christina Smith,"Kindred, North Dakota",Marketing Director,29,NONE,28.0,3.0
+Dina Lupancu,"Willowbrook, Illinois",Attorney,29,NONE,33.0,8.0
+Ella Del Rosario,"Los Angeles, California",Luxury Travel Host,29,NONE,26.0,1.0
+J’Nae Squires-Horton,"Colorado Springs, Colorado",Account Coordinator,29,NONE,29.0,4.0
+Juliana Pasquarosa,"Newton, Massachusetts",Client Service Associate,29,NONE,29.0,4.0
+Kelsey Curtis,"Clarksville, Maryland",Interior Designer,29,NONE,27.0,2.0
+Kyleigh Henrich,"Glen Rose, Texas",Retail Manager,29,NONE,27.0,2.0
+Litia Garr,"Soda Springs, Idaho",Venture Capitalist,29,NONE,32.0,7.0
+Natalie Phillips,"Seattle, Washington",Ph.D. Student,29,NONE,26.0,1.0
+Neicey Baxter,"Blythewood, South Carolina",Pediatrician,29,NONE,33.0,8.0
+Parisa Shifteh,"Birmingham, Michigan",Pediatric Behavior Analyst,29,NONE,30.0,5.0
+Radhika Gupta,"Floral Park, New York",Attorney,29,NONE,29.0,4.0
+Rebekah Garrett,"Dallas, Texas",ICU Nurse,29,NONE,32.0,7.0
+Rose Sombke,"Rockford, Illinois",Registered Nurse,29,NONE,28.0,3.0
+Sarafiena Watkins,"Cos Cob, Connecticut",Associate Media Director,29,NONE,30.0,5.0
+Savannah Quinn,"Charlottesville, Virginia",Wedding Planner,29,NONE,27.0,2.0
+Vicky Nyamuswa,"Henderson, Nevada",Nightclub Server,29,NONE,29.0,4.0
+Zoe McGrady,"Chester, Virginia",Tech Engineer/Model,29,NONE,28.0,3.0
 "Jennifer Schefft
-",1976,"Mentor, Ohio
+","Mentor, Ohio
 ","Publicist
-",3,"Winner
-"
+",3,8,27.0,17.0
 "Kirsten Buschbacher
-",1979,"Valrico, Florida
+","Valrico, Florida
 ","E-Commerce Merchant
-",3,"Runner-up
-"
+",3,7,24.0,20.0
 "Tina Panas
-",1980,"Oconomowoc, Wisconsin
+","Oconomowoc, Wisconsin
 ","Student
-",3,"Week 6
-"
+",3,6,23.0,21.0
 "Cristina Costa
-",1972,"Montclair, New Jersey
+","Montclair, New Jersey
 ","Pharmaceutical sales consultant
-",3,"Week 5
-"
+",3,5,31.0,13.0
 "Anne-Michelle
-","25
 ","Burbank, California
 ","Bartender/actress
-",3,"Week 4
-"
+",3,4,25.0,19.0
 "Liz
-","23
 ","Chicago, Illinois
 ","Event marketing director
-",3,"Week 4
-"
-"Amber
-","23
-","Atlanta, Georgia
-","Account executive
-",3,"Week 3
-"
+",3,4,23.0,21.0
 "Aubree
-","26
 ","Las Vegas, Nevada
 ","Hair stylist
-",3,"Week 3
-"
+",3,3,26.0,18.0
 "Heather
-","22
 ","Waltham, Massachusetts
 ","Student
-",3,"Week 3
-"
+",3,3,22.0,22.0
 "Tina S.
-","26
 ","Nashville, Tennessee
 ","Event planner
-",3,"Week 3
-"
+",3,3,26.0,18.0
 "Amy P.
-","29
 ","Charleston, South Carolina
 ","Massage therapist
-",3,"Week 2
-"
+",3,2,29.0,15.0
 "Christina S.
-","24
 ","Palm Harbor, Florida
 ","Realtor
-",3,"Week 2
-"
+",3,2,24.0,20.0
 "Elizabeth
-","24
 ","Bolingbrook, Illinois
 ","Child life specialist
-",3,"Week 2
-"
-"Rachel
-","21
-","New Braunfels, Texas
-","Student
-",3,"Week 2
-"
+",3,2,24.0,20.0
 "Shannon
-","26
 ","New York, New York
 ","Human resources
-",3,"Week 2
-"
+",3,2,26.0,18.0
 "Amy G.
-","24
 ","New York, New York
 ","Graphic designer
-",3,"Week 1
-"
-"Angela
-","25
-","Williamsville, New York
-","Student
-",3,"Week 1
-"
+",3,1,24.0,20.0
 "Brooke
-","21
 ","Jacksonville, Florida
 ","Student
-",3,"Week 1
-"
+",3,1,21.0,23.0
 "Courtney
-","24
 ","San Anselmo, Texas
 ","Administrative assistant
-",3,"Week 1
-"
+",3,1,24.0,20.0
 "Ginny
-","25
 ","Kansas City, Missouri
 ","Server
-",3,"Week 1
-"
+",3,1,25.0,19.0
 "Jennifer B.
-","26
 ","New Port Richey, Florida
 ","Pharmacist
-",3,"Week 1
-"
+",3,1,26.0,18.0
 "Kerri
-","25
 ","Los Angeles, California
 ","Corporate recruiter
-",3,"Week 1
-"
+",3,1,25.0,19.0
 "Kristen
-","29
 ","Excelsior, Minnesota
 ","Real-estate sales
-",3,"Week 1
-"
+",3,1,29.0,15.0
 "Stephanie
-","21
 ","Mount Pleasant, Tennessee
 ","Server
-",3,"Week 1
-"
+",3,1,21.0,23.0
 "Tiffany Sandles
-","26
 ","Cuyahoga Falls, Ohio
 ","Mansion caretaker
-",3,"Week 1
-"
+",3,1,26.0,18.0
 "Estella Gardinier
-",1975,"Beverly Hills, California
+","Beverly Hills, California
 ","Mortgage Broker
-",4,"Winner
-"
+",4,8,28.0,21.0
 "Kelly Jo Kuharski
-",1979,"Kalamazoo, Michigan
+","Kalamazoo, Michigan
 ","Director of community relations
-",4,"Runner-up
-"
+",4,7,24.0,25.0
 "Mary Delgado
-",1967,"Tampa, Florida
+","Tampa, Florida
 ","Sales manager
-",4,"Week 6
-"
+",4,6,36.0,13.0
 "Meredith Phillips
-",1974,"Beaverton, Oregon
+","Beaverton, Oregon
 ","Make-up artist
-",4,"Week 5
-"
+",4,5,29.0,20.0
 "Brooke Bradford
-","24
 ","Bartlett, Tennessee
 ","Teacher
-",4,"Week 4
-"
+",4,4,24.0,25.0
 "Lee-Ann Callebs
-","24
 ","Athens, Georgia
 ","Second-grade teacher
-",4,"Week 4
-"
+",4,4,24.0,25.0
 "Antoinette Madonna
-","30
 ","Philadelphia, Pennsylvania
 ","Senior Account Manager
-",4,"Week 3
-"
+",4,3,30.0,19.0
 "Jenny Hartgrove
-","30
 ","Austin, Texas
 ","Marketing Director
-",4,"Week 3
-"
+",4,3,30.0,19.0
 "Karin Smith
-","32
 ","Brooklyn Park, Minnesota
 ","Mortgage Consultant
-",4,"Week 3
-"
+",4,3,32.0,17.0
 "Misty
-","23
 ","Dallas, Texas
 ","Radio Promotions Assistant
-",4,"Week 3
-"
+",4,3,23.0,26.0
 "Jennifer
-","26
 ","La Jolla, California
 ","Elementary School Teacher
-",4,"Week 2
-"
+",4,2,26.0,23.0
 "Kristi Houston
-","24
 ","Chicago, Illinois
 ","Loan Processor
-",4,"Week 2
-"
+",4,2,24.0,25.0
 "Lanah
-","27
 ","Poolesville, Maryland
 ","Event Coordinator
-",4,"Week 2
-"
+",4,2,27.0,22.0
 "Lindsay D.
-","23
 ","Los Angeles, California
 ","Professional Dancer
-",4,"Week 2
-"
+",4,2,23.0,26.0
 "Lindsay King
-","25
 ","Mauldin, South Carolina
 ","Pharmaceutical Sales
-",4,"Week 1
-"
+",4,1,25.0,24.0
 "Christine
-","24
 ","Corona, California
 ","Administrative Assistant
-",4,"Week 1
-"
+",4,1,24.0,25.0
 "Darla Whistler
-","26
 ","Gainesville, Florida
 ","Attorney
-",4,"Week 1
-"
-"Heather
-","24
-","Chicago, Illinois
-","Recent College Graduate
-",4,"Week 1
-"
+",4,1,26.0,23.0
 "Julie
-","29
 ","Louisville, Kentucky
 ","Sales/Modeling
-",4,"Week 1
-"
+",4,1,29.0,20.0
 "Lauren
-","24
 ","Redondo Beach, California
 ","Retail Buyer
-",4,"Week 1
-"
+",4,1,24.0,25.0
 "Leona
-","25
 ","Chicago, Illinois
 ","Realtor's assistant
-",4,"Week 1
-"
+",4,1,25.0,24.0
 "Samentha
-","25
 ","Chicago, Illinois
 ","Kitchen designer
-",4,"Week 1
-"
+",4,1,25.0,24.0
 "Shea Deeds
-","25
 ","Shreveport, Lousiana
 ","Firefighter
-",4,"Week 1
-"
+",4,1,25.0,24.0
 "Shelly
-","26
 ","Wanwatosa, Wisconsin
 ","Pharmaceutical Sales
-",4,"Week 1
-"
+",4,1,26.0,23.0
 "Stacey
-","26
 ","Massillon, OH
 ","Hair stylist
-",4,"Week 1
-"
+",4,1,26.0,23.0
 "Jessica Bowlin
-",1982,"Huntington Beach, California
+","Huntington Beach, California
 ","Student
-",5,"Winner
-"
+",5,8,22.0,21.0
 "Tara Huckeby
-",1981,"Shawnee, Oklahoma
+","Shawnee, Oklahoma
 ","General contractor
-",5,"Runner-up
-"
+",5,7,23.0,20.0
 "Mandy Jeffreys
-",26,"Midland, Texas
+","Midland, Texas
 ","Architecture Designer
-",5,"Week 6
-"
+",5,6,26.0,17.0
 "Trish Schneider
-",28,"Atlanta, Georgia
+","Atlanta, Georgia
 ","Model
-",5,"Week 5
-"
+",5,5,28.0,15.0
 "Karen Lindsay
-",28,"Pleasant Grove, Utah
+","Pleasant Grove, Utah
 ","Pharmaceutical Salesperson
-",5,"Week 4
-"
+",5,4,28.0,15.0
 "Suzie Williams
-",23,"Ann Arbor, Michigan
+","Ann Arbor, Michigan
 ","Prosthetic Technician
-",5,"Week 4
-"
+",5,4,23.0,20.0
 "Jenny De Schiralli
-",26,"Carrboro, North Carolina
+","Carrboro, North Carolina
 ","Swim Instructor
-",5,"Week 3
-"
+",5,3,26.0,17.0
 "Jessica Holcomb
-",25,"Pearsall, Texas
+","Pearsall, Texas
 ","Attorney
-",5,"Week 3
-"
+",5,3,25.0,18.0
 "Julie Durda
-",24,"Sacramento, California
+","Sacramento, California
 ","Professional Cheerleader
-",5,"Week 3
-"
+",5,3,24.0,19.0
 "Katie Gehart
-",22,"Scottsdale, Arizona
+","Scottsdale, Arizona
 ","LASIK Eye & Skin Center Manager
-",5,"Week 3
-"
+",5,3,22.0,21.0
 "Amber LaRoux
-",27,"Sunriver, Oregon
+","Sunriver, Oregon
 ","Consultant
-",5,"Week 2
-"
+",5,2,27.0,16.0
 "Anne-Catherine Labbé
-",27,"Quebec City, Quebec, Canada
+","Quebec City, Quebec, Canada
 ","Model
-",5,"Week 2
-"
+",5,2,27.0,16.0
 "Celeste Creel
-",24,"Ithaca, New York
+","Ithaca, New York
 ","Executive Assistant
-",5,"Week 2
-"
+",5,2,24.0,19.0
 "Debbie Merkett
-",27,"Pinetops, North Carolina
+","Pinetops, North Carolina
 ","Massage Therapist
-",5,"Week 2
-"
+",5,2,27.0,16.0
 "Jean-Marie Callahan
-",26,"Gibson, North Carolina
+","Gibson, North Carolina
 ","Hairstylist
-",5,"Week 2
-"
+",5,2,26.0,17.0
 "Jenny Matthews
-",24,"Canton, Michigan
+","Canton, Michigan
 ","Retail Manager
-",5,"Week 2
-"
+",5,2,24.0,19.0
 "Kristy Romero
-",25,"Dearborn, Michigan
+","Dearborn, Michigan
 ","Student
-",5,"Week 2
-"
+",5,2,25.0,18.0
 "Mandy Clemens
-",1978,"San Diego, California
+","San Diego, California
 ","Professional Soccer Player
-",5,"Week 2
-"
+",5,2,26.0,17.0
 "DeShaun Warner
-",25,"Phillipsburg, New Jersey
+","Phillipsburg, New Jersey
 ","Account Manager
-",5,"Week 1
-"
+",5,1,25.0,18.0
 "Dolores Farburg
-",26,"Madison, New Jersey
+","Madison, New Jersey
 ","Account Manager
-",5,"Week 1
-"
+",5,1,26.0,17.0
 "Francine Jones
-",25,"Houston, Texas
+","Houston, Texas
 ","Retail Manager
-",5,"Week 1
-"
+",5,1,25.0,18.0
 "Holly Reeder
-",26,"Tulsa, Oklahoma
+","Tulsa, Oklahoma
 ","Bank Representative
-",5,"Week 1
-"
+",5,1,26.0,17.0
 "Jessica Kyron
-",21,"Cincinnati, Ohio
+","Cincinnati, Ohio
 ","Student
-",5,"Week 1
-"
+",5,1,21.0,22.0
 "Kristin Clearwater
-",25,"Sausalito, California
+","Sausalito, California
 ","Singer
-",5,"Week 1
-"
+",5,1,25.0,18.0
 "Rachel Clementi
-",26,"Buffalo, New York
+","Buffalo, New York
 ","Fashion PR Manager
-",5,"Week 1
-"
-"Mary Delgado
-",1967,"Tampa, FL
-","Sales manager
-",6,"Winner
-"
+",5,1,26.0,17.0
 "Tanya
-","31
 ","Plano, TX
 ","Teacher
-",6,"Runner-up
-"
+",6,8,31.0,27.0
 "Cynthia
-","37
 ","Hermosa Beach, CA
 ","Charity foundations director
-",6,"Week 7
-"
+",6,7,37.0,21.0
 "Cheresse
-","31
 ","St. Louis, MO
 ","Advertising director
-",6,"Week 6
-"
+",6,6,31.0,27.0
 "Andrea
-","33
 ","Denver, CO
 ","Dental hygienist
-",6,"Week 5
-"
+",6,5,33.0,25.0
 "Jayne
-","37
 ","Key Largo, FL
 ","Dog groomer
-",6,"Week 5
-"
-"Elizabeth
-","28
-","Chicago, IL
-","Pharmaceutical sales
-",6,"Week 4
-"
+",6,5,37.0,21.0
 "Krysta
-","28
 ","Oklahoma City, OK
 ","Financial analyst
-",6,"Week 4
-"
+",6,4,28.0,30.0
 "Amanda
-","27
 ","New York, NY
 ","Cosmetics buyer
-",6,"Week 3
-"
+",6,3,27.0,31.0
 "Kristie
-","32
 ","Windsor, Canada
 ","Bar owner
-",6,"Week 3
-"
+",6,3,32.0,26.0
 "Susie
-","32
 ","Hollywood, CA
 ","Insurance broker
-",6,"Week 3
-"
-"Heather Cranford
-",30,"Dallas, TX
-","Flight attendant
-",6,"Week 3
-"
+",6,3,32.0,26.0
 "Ashley
-","31
 ","Santa Barbara, CA
 ","Teacher
-",6,"Week 2
-"
+",6,2,31.0,27.0
 "Kelly
-","34
 ","Beverly Hills, CA
 ","Actress
-",6,"Week 2
-"
+",6,2,34.0,24.0
 "Leina
-","28
 ","Chula Vista, CA
 ","Advertising associate
-",6,"Week 2
-"
+",6,2,28.0,30.0
 "Natalie
-","34
 ","Santa Monica, CA
 ","Retail sales
-",6,"Week 2
-"
+",6,2,34.0,24.0
 "Wende
-","28
 ","Austin, TX
 ","Model
-",6,"Week 2
-"
+",6,2,28.0,30.0
 "Abby
-","29
 ","Henderson, NV
 ","Acrobat
-",6,"Week 1
-"
+",6,1,29.0,29.0
 "Alma Rubenstein
-","35
 ","Astoria, OR
 ","Cafe owner
-",6,"Week 1
-"
+",6,1,35.0,23.0
 "Amy
-","27
 ","San Diego, CA
 ","Marketing consultant
-",6,"Week 1
-"
+",6,1,27.0,31.0
 "Carolyn
-","36
 ","Tusla, OK
 ","Financial advisor
-",6,"Week 1
-"
-"Jennifer
-","31
-","Seattle, WA
-","Account executive
-",6,"Week 1
-"
+",6,1,36.0,22.0
 "Kerry
-","31
 ","San Francisco, CA
 ","Nurse
-",6,"Week 1
-"
+",6,1,31.0,27.0
 "Kristin
-","27
 ","Pensacola, FL
 ","Office manager
-",6,"Week 1
-"
+",6,1,27.0,31.0
 "Lisa
-","33
 ","West Palm Beach, FL
 ","Teacher
-",6,"Week 1
-"
+",6,1,33.0,25.0
 "Melinda
-","39
 ","Nashville, TN
 ","Photographer
-",6,"Week 1
-"
+",6,1,39.0,19.0
 "Nicole
-","28
 ","Libertyville, IL
 ","Executive recruiter
-",6,"Week 1
-"
+",6,1,28.0,30.0
 "Sarah Brice
-",1980,"McKinney, Texas
+","McKinney, Texas
 ","Labor and Delivery Nurse
-",7,"Winner
-"
+",7,8,25.0,23.0
 "Krisily Kennedy
-",1979,"Warwick, Rhode Island
+","Warwick, Rhode Island
 ","Salon Coordinator
-",7,"Runner-up
-"
+",7,7,26.0,22.0
 "Sarah Welch
-","24
 ","Los Angeles, California
 ","Fashion Design
-",7,"Week 6
-"
+",7,6,24.0,24.0
 "Kimberly Choma
-","25
 ","Edmonton, Alberta
 ","Swimsuit Model
-",7,"Week 5
-"
+",7,5,25.0,23.0
 "Anitra
-","29
 ","Manhattan Beach, California
 ","Makeup Artist
-",7,"Week 4
-"
+",7,4,29.0,19.0
 "Kindle
-","23
 ","Rockwell, Texas
 ","Pro Basketball Cheerleader
-",7,"Week 4
-"
+",7,4,23.0,25.0
 "Jenny Adams
-","23
 ","Edmonton, Alberta
 ","Marketing Coordinator
-",7,"Week 3
-"
+",7,3,23.0,25.0
 "Kara
-","26
 ","Woodland Hills, California
 ","Nanny
-",7,"Week 3
-"
+",7,3,26.0,22.0
 "Carrie
-","27
 ","Minneapolis, Minnesota
 ","Computer Specialist
-",7,"Week 2
-"
+",7,2,27.0,21.0
 "Gina Marie
-","28
 ","Fort Lauderdale, Florida
 ","Bartender
-",7,"Week 2
-"
-"Kerry
-","32
-","Chicago, Illinois
-","Director of Mergers & Acquisitions
-",7,"Week 2
-"
+",7,2,28.0,20.0
 "Megan
-","23
 ","Tallahassee, Florida
 ","Retail Marketing
-",7,"Week 2
-"
+",7,2,23.0,25.0
 "Brenda
-","26
 ","New York City, New York
 ","Sales Coordinator
-",7,"Week 1
-"
+",7,1,26.0,22.0
 "Danuska
-","30
 ","Los Angeles, California
 ","Runway Model
-",7,"Week 1
-"
+",7,1,30.0,18.0
 "Debby
-","25
 ","Thornhill, Ontario
 ","Flight Attendant
-",7,"Week 1
-"
+",7,1,25.0,23.0
 "Emilie
-","27
 ","Chicago, Illinois
 ","Technology Sales
-",7,"Week 1
-"
+",7,1,27.0,21.0
 "Geitan
-","30
 ","Newport Beach, California
 ","Realtor
-",7,"Week 1
-"
-"Heather
-","24
-","Orlando, Florida
-","Contractor
-",7,"Week 1
-"
-"Katie
-","25
-","Tempe, Arizona
-","Resort Accountant
-",7,"Week 1
-"
-"Kristen
-","30
-","Boston, Massachusetts
-","Teacher
-",7,"Week 1
-"
+",7,1,30.0,18.0
 "Kristina
-","27
 ","Brooklyn, New York
 ","Writer
-",7,"Week 1
-"
+",7,1,27.0,21.0
 "Kristine
-","23
 ","Fairfax Station, Virginia
 ","Bikini Model
-",7,"Week 1
-"
+",7,1,23.0,25.0
 "Kyshawn
-","30
 ","Nashville, Tennessee
 ","Bartender
-",7,"Week 1
-"
+",7,1,30.0,18.0
 "Siomara
-","25
 ","Chicago, Illinois
 ","Loan Officer
-",7,"Week 1
-"
+",7,1,25.0,23.0
 "Valerie
-","28
 ","Wayne, New Jersey
 ","Executive Assistant
-",7,"Week
-"
-Jennifer Wilson,24,"Pembroke Pines, Florida",Teacher,9,Winner
-Sadie Murray,1983,"Carlsbad, California",Publicist,9,Runner-up
-Lisa Blank,25,"Portland, Oregon",Marketing manager,9,Eliminated in week 6
-Agnese Polliza,24,"Venice, Italy",Student,9,Eliminated in week 5
-Jeanette Pawula,23,"Bloomingdale, Illinois",Teacher,9,Eliminated in week 4
-Desiree Valentin,22,"Salt Lake City, Utah",Realtor,9,Eliminated in week 4
-Jami Matzke,27,"Galveston, Texas",Event planner,9,Eliminated in week 3
-Gina Clark,28,"Chicago, Illinois",Ultrasound technician,9,Eliminated in week 3
-Erica Rose,1983,"Houston, Texas",Socialite,9,Eliminated in week 3
-Sarah Schnare,30,"Nelson, British Columbia",Journalist,9,Eliminated in week 2
-Kim Jackson,27,"Newport Beach, California",Interior designer,9,Eliminated in week 2
-Ellen DeMaio,30,"New Haven, Connecticut",Realtor,9,Eliminated in week 2
-April Jacobs,23,"Chicago, Illinois",Model,9,Eliminated in week 1
-Andrea Shirley,28,"Cincinnati, Ohio",Hotel concierge,9,Eliminated in week 1
-Brit Keeder,28,"Columbus, Ohio",Beer chemist,9,Eliminated in week 1
-Carissa Ilburg,25,"Cattaraugus, New York",Attorney,9,Eliminated in week 1
-Claudia Gismondi,22,"Boca Raton, Florida",Restauranteur,9,Eliminated in week 1
-Cosetta Blanca,Cosetta Blanca,Italy,Dancer,9,Eliminated in week 1
-Elyse Hammer,27,"New York, New York",Physician,9,Eliminated in week 1
-Heather Sneed,34,"Aliquippa, Pennsylvania",Registered nurse,9,Eliminated in week 1
-Jessica Horner,25,"Charlotte, North Carolina",Assistant buyer,9,Eliminated in week 1
-Laura Morgan,29,"San Diego, California",Dolphin trainer,9,Eliminated in week 1
-Meri Barr,27,"Biloxi, Mississippi",Attorney,9,Eliminated in week 1
-Renée Snell,30,"Baltimore, Maryland",Broadcast marketer,9,Eliminated in week 1
-Rita Ghazal,29,"Richmond, Virginia",Policy advisor,9,Eliminated in week 1
-Rosella Fratto,27,"Chicago, Illinois",Make-up artist,9,Eliminated in week 1
-Tara Durr,1981,"St. Augustine, Florida",Realtor,9,Eliminated in week 1
+",7,1,28.0,20.0
+Jennifer Wilson,"Pembroke Pines, Florida",Teacher,9,8,24.0,29.0
+Sadie Murray,"Carlsbad, California",Publicist,9,7,23.0,30.0
+Lisa Blank,"Portland, Oregon",Marketing manager,9,6,25.0,28.0
+Agnese Polliza,"Venice, Italy",Student,9,5,24.0,29.0
+Jeanette Pawula,"Bloomingdale, Illinois",Teacher,9,4,23.0,30.0
+Desiree Valentin,"Salt Lake City, Utah",Realtor,9,4,22.0,31.0
+Jami Matzke,"Galveston, Texas",Event planner,9,3,27.0,26.0
+Gina Clark,"Chicago, Illinois",Ultrasound technician,9,3,28.0,25.0
+Erica Rose,"Houston, Texas",Socialite,9,3,23.0,30.0
+Sarah Schnare,"Nelson, British Columbia",Journalist,9,2,30.0,23.0
+Kim Jackson,"Newport Beach, California",Interior designer,9,2,27.0,26.0
+Ellen DeMaio,"New Haven, Connecticut",Realtor,9,2,30.0,23.0
+April Jacobs,"Chicago, Illinois",Model,9,1,23.0,30.0
+Andrea Shirley,"Cincinnati, Ohio",Hotel concierge,9,1,28.0,25.0
+Brit Keeder,"Columbus, Ohio",Beer chemist,9,1,28.0,25.0
+Carissa Ilburg,"Cattaraugus, New York",Attorney,9,1,25.0,28.0
+Claudia Gismondi,"Boca Raton, Florida",Restauranteur,9,1,22.0,31.0
+Elyse Hammer,"New York, New York",Physician,9,1,27.0,26.0
+Heather Sneed,"Aliquippa, Pennsylvania",Registered nurse,9,1,34.0,19.0
+Jessica Horner,"Charlotte, North Carolina",Assistant buyer,9,1,25.0,28.0
+Laura Morgan,"San Diego, California",Dolphin trainer,9,1,29.0,24.0
+Meri Barr,"Biloxi, Mississippi",Attorney,9,1,27.0,26.0
+Renée Snell,"Baltimore, Maryland",Broadcast marketer,9,1,30.0,23.0
+Rita Ghazal,"Richmond, Virginia",Policy advisor,9,1,29.0,24.0
+Rosella Fratto,"Chicago, Illinois",Make-up artist,9,1,27.0,26.0
+Tara Durr,"St. Augustine, Florida",Realtor,9,1,25.0,28.0

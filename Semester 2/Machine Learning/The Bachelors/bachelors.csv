@@ -1,30 +1,30 @@
-Name,Birth Year,Hometown,Occupation,Season
-"Alexander Mattheus ""Alex"" Michel",1970,"Charlottesville, Virginia",Management consultant,1
-"Andrew James ""Andy"" Baldwin",1977,"Lancaster, Pennsylvania",US Navy Officer,10
-"Stephen Bradley ""Brad"" Womack",1972,"Livingston, Texas",Entrepreneur,11
-"Matthew Christian ""Matt"" Grant",1980,"London, United Kingdom",Global financier,12
-Jason Scott Mesnick,1976,"Kirkland, Washington",Account executive,13
-Jake Pavelka,1978,"Dallas, Texas",Pilot,14
-"Stephen Bradley ""Brad"" Womack",1972,"Livingston, Texas",Entrepreneur,15
-Benjamin Flajnik,1982,"Sonoma, California",Winemaker,16
-Sean Thomas Lowe,1983,"Arlington, Texas",Reality TV personalityAuthor,17
-Juan Pablo Galavis Guinand,1981,"Miami, Florida",Former professional soccer player,18
-"Christopher Douglas ""Chris"" Soules",1981,"Lamont, Iowa",Farmer,19
-Aaron Grant Buerge,1974,"Butler, Missouri",Banker,2
-"Benjamin Edward ""Ben"" Higgins",1989,"Warsaw, Indiana",Software salesman,20
-Nicholas Joseph Viall,1980,"Milwaukee, Wisconsin",Software sales executive,21
-Arie Luyendyk Jr.,1981,"Den Bosch, Netherlands",Race car driver,22
-Colton Scott Underwood,1992,"Denver, Colorado",Former NFL player,23
-Peter Weber,1991,"Westlake Village, California",Pilot,24
-Matt James,1991,"New York City, New York",Real estate broker andentrepreneur,25
-Clayton Ray Echard,1993,"Eureka, Missouri",Medical sales representative,26
-Zach Shallcross,1996,"Anaheim Hills, California",Tech executive,27
-Joey Graziadei,1995,"Royersford, Pennsylvania",Tennis Pro,28
-Grant Ellis,1993,"Newark, New Jersey",Day Trader,29
-Andrew Boulton Firestone,1975,"Santa Barbara, California",Sales manager of Firestone Family estates,3
-"Robert ""Bob"" Guiney",1971,"Riverview, Michigan",Creator of a mortgage company,4
-Jesse James Palmer,1978,"Nepean, Ontario",College football player,5
-Byron Paul Velvick,1964,"Downey, California",Professional bass fisherman (retired),6
-"Charles ""Charlie"" O'Connell",1975,"New York City, New York",Actor,7
-Travis Lane Stork,1972,"Fort Collins, Colorado",Doctor,8
-Prince Lorenzo Borghese,1972,"Milan, Italy",Cosmetics entrepreneur,9
+Name,Hometown,Occupation,Season,Age
+"Alexander Mattheus ""Alex"" Michel","Charlottesville, Virginia",Management consultant,1,32.0
+Aaron Grant Buerge,"Butler, Missouri",Banker,2,34.0
+Andrew Boulton Firestone,"Santa Barbara, California",Sales manager of Firestone Family estates,3,44.0
+"Robert ""Bob"" Guiney","Riverview, Michigan",Creator of a mortgage company,4,49.0
+Jesse James Palmer,"Nepean, Ontario",College football player,5,43.0
+Byron Paul Velvick,"Downey, California",Professional bass fisherman (retired),6,58.0
+"Charles ""Charlie"" O'Connell","New York City, New York",Actor,7,48.0
+Travis Lane Stork,"Fort Collins, Colorado",Doctor,8,52.0
+Prince Lorenzo Borghese,"Milan, Italy",Cosmetics entrepreneur,9,53.0
+"Andrew James ""Andy"" Baldwin","Lancaster, Pennsylvania",US Navy Officer,10,25.0
+"Stephen Bradley ""Brad"" Womack","Livingston, Texas",Entrepreneur,11,31.0
+"Matthew Christian ""Matt"" Grant","London, United Kingdom",Global financier,12,23.0
+Jason Scott Mesnick,"Kirkland, Washington",Account executive,13,28.0
+Jake Pavelka,"Dallas, Texas",Pilot,14,26.0
+"Stephen Bradley ""Brad"" Womack","Livingston, Texas",Entrepreneur,15,33.0
+Benjamin Flajnik,"Sonoma, California",Winemaker,16,24.0
+Sean Thomas Lowe,"Arlington, Texas",Reality TV personalityAuthor,17,23.0
+Juan Pablo Galavis Guinand,"Miami, Florida",Former professional soccer player,18,26.0
+"Christopher Douglas ""Chris"" Soules","Lamont, Iowa",Farmer,19,26.0
+"Benjamin Edward ""Ben"" Higgins","Warsaw, Indiana",Software salesman,20,20.0
+Nicholas Joseph Viall,"Milwaukee, Wisconsin",Software sales executive,21,30.0
+Arie Luyendyk Jr.,"Den Bosch, Netherlands",Race car driver,22,30.0
+Colton Scott Underwood,"Denver, Colorado",Former NFL player,23,20.0
+Peter Weber,"Westlake Village, California",Pilot,24,22.0
+Matt James,"New York City, New York",Real estate broker andentrepreneur,25,23.0
+Clayton Ray Echard,"Eureka, Missouri",Medical sales representative,26,22.0
+Zach Shallcross,"Anaheim Hills, California",Tech executive,27,20.0
+Joey Graziadei,"Royersford, Pennsylvania",Tennis Pro,28,22.0
+Grant Ellis,"Newark, New Jersey",Day Trader,29,25.0
