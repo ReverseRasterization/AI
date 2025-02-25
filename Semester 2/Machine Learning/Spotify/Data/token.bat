@@ -1,6 +1,6 @@
 @echo off
-set CLIENT_ID=754418217eb44f5792be2ddb7002ddc8
-set CLIENT_SECRET=339fda3b0f0f4bf5b96f1865b331378f
+set CLIENT_ID=c969f35722854f7aaebe4690be3fb080
+set CLIENT_SECRET=a97b44b5ef62495899eaaf619421151b
 
 curl -X POST "https://accounts.spotify.com/api/token" ^
      -H "Content-Type: application/x-www-form-urlencoded" ^
